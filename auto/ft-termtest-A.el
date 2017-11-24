@@ -13,6 +13,7 @@
     "alltt"
     "enumerate"
     "syllogism"
+    "october"
     "xcolor")
    (TeX-add-symbols
     '("aufgabe" 1)
