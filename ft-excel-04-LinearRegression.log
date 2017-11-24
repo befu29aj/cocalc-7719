@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  23 NOV 2017 16:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  20 NOV 2017 23:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**ft-12-Optimization.tex
-(./ft-12-Optimization.tex
+**ft-excel-04-LinearRegression.tex
+(./ft-excel-04-LinearRegression.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
@@ -758,8 +758,8 @@ Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
 ))
 \c@expls=\count154
 \c@exercise=\count155
- (./ft-12-Optimization.aux)
-\openout1 = `ft-12-Optimization.aux'.
+ (./ft-excel-04-LinearRegression.aux)
+\openout1 = `ft-excel-04-LinearRegression.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
 LaTeX Font Info:    ... okay on input line 70.
@@ -854,9 +854,9 @@ LaTeX Info: Redefining \ref on input line 70.
 LaTeX Info: Redefining \pageref on input line 70.
 LaTeX Info: Redefining \nameref on input line 70.
 
-(./ft-12-Optimization.out) (./ft-12-Optimization.out)
+(./ft-excel-04-LinearRegression.out) (./ft-excel-04-LinearRegression.out)
 \@outlinefile=\write5
-\openout5 = `ft-12-Optimization.out'.
+\openout5 = `ft-excel-04-LinearRegression.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 70.
@@ -937,157 +937,196 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 LaTeX Info: Redefining \includegraphics on input line 70.
 
-(./ft-12-Optimization.nav)
+(./ft-excel-04-LinearRegression.nav)
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 74.
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for U+msa on input line 87.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 87.
+]
+<./linreg01.png, id=42, 770.88pt x 410.13225pt>
+File: ./linreg01.png Graphic file (type png)
+ <use ./linreg01.png>
+Package pdftex.def Info: ./linreg01.png used on input line 91.
+(pdftex.def)             Requested size: 323.7674pt x 172.25436pt.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 87.
+Overfull \hbox (16.47752pt too wide) in paragraph at lines 91--91
+ [] 
+ []
 
-(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
-thkerncmss.
-)
-[2
+[3
 
-] [3
+ <./linreg01.png>] <./linreg02.png, id=51, 770.88pt x 410.13225pt>
+File: ./linreg02.png Graphic file (type png)
 
-] <./extrema1.png, id=54, 927.465pt x 886.31125pt>
-File: ./extrema1.png Graphic file (type png)
- <use ./extrema1.png>
-Package pdftex.def Info: ./extrema1.png used on input line 109.
-(pdftex.def)             Requested size: 278.24164pt x 265.89542pt.
+<use ./linreg02.png>
+Package pdftex.def Info: ./linreg02.png used on input line 98.
+(pdftex.def)             Requested size: 323.7674pt x 172.25436pt.
 
-Overfull \vbox (44.35301pt too high) detected at line 109
+Overfull \hbox (16.47752pt too wide) in paragraph at lines 98--98
+ [] 
  []
 
 [4
 
- <./extrema1.png>] <./extrema2.png, id=63, 927.465pt x 886.31125pt>
-File: ./extrema2.png Graphic file (type png)
+ <./linreg02.png>] <./linreg08.png, id=59, 770.88pt x 410.13225pt>
+File: ./linreg08.png Graphic file (type png)
 
-<use ./extrema2.png>
-Package pdftex.def Info: ./extrema2.png used on input line 116.
-(pdftex.def)             Requested size: 278.24164pt x 265.89542pt.
+<use ./linreg08.png>
+Package pdftex.def Info: ./linreg08.png used on input line 105.
+(pdftex.def)             Requested size: 323.7674pt x 172.25436pt.
 
-Overfull \vbox (44.35301pt too high) detected at line 116
+Overfull \hbox (16.47752pt too wide) in paragraph at lines 105--105
+ [] 
  []
 
 [5
 
- <./extrema2.png>] [6
+ <./linreg08.png>] <./linreg03.png, id=67, 487.8225pt x 404.712pt>
+File: ./linreg03.png Graphic file (type png)
 
-] <./extrema3.png, id=80, 927.465pt x 886.31125pt>
-File: ./extrema3.png Graphic file (type png)
+<use ./linreg03.png>
+Package pdftex.def Info: ./linreg03.png used on input line 112.
+(pdftex.def)             Requested size: 204.88405pt x 169.97787pt.
+ [6
 
-<use ./extrema3.png>
-Package pdftex.def Info: ./extrema3.png used on input line 138.
-(pdftex.def)             Requested size: 278.24164pt x 265.89542pt.
+ <./linreg03.png>]
+<./linreg04.png, id=75, 770.88pt x 410.13225pt>
+File: ./linreg04.png Graphic file (type png)
+ <use ./linreg04.png>
+Package pdftex.def Info: ./linreg04.png used on input line 119.
+(pdftex.def)             Requested size: 323.7674pt x 172.25436pt.
 
-Overfull \vbox (44.35301pt too high) detected at line 138
+Overfull \hbox (16.47752pt too wide) in paragraph at lines 119--119
+ [] 
  []
 
 [7
 
- <./extrema3.png>] [8
+ <./linreg04.png>] <./linreg05.png, id=84, 810.02625pt x 410.13225pt>
+File: ./linreg05.png Graphic file (type png)
 
-] [9
+<use ./linreg05.png>
+Package pdftex.def Info: ./linreg05.png used on input line 126.
+(pdftex.def)             Requested size: 340.2087pt x 172.25436pt.
 
-] [10
-
-]
-Package epstopdf Info: Source file: <./ft-11-AnalyzingFunctions.eps>
-(epstopdf)                    date: 2017-11-15 16:20:32
-(epstopdf)                    size: 3404807 bytes
-(epstopdf)             Output file: <./ft-11-AnalyzingFunctions-eps-converted-t
-o.pdf>
-(epstopdf)                    date: 2017-11-15 16:21:10
-(epstopdf)                    size: 114546 bytes
-(epstopdf)             Command: <repstopdf --outfile=./ft-11-AnalyzingFunctions
--eps-converted-to.pdf ./ft-11-AnalyzingFunctions.eps>
-(epstopdf)             \includegraphics on input line 209.
-Package epstopdf Info: Output file is already uptodate.
-
-<./ft-11-AnalyzingFunctions-eps-converted-to.pdf, id=120, 1009.7725pt x 558.085
-pt>
-File: ./ft-11-AnalyzingFunctions-eps-converted-to.pdf Graphic file (type pdf)
- <use ./ft-11-AnalyzingFunctions-eps-converted-to.pdf>
-Package pdftex.def Info: ./ft-11-AnalyzingFunctions-eps-converted-to.pdf used o
-n input line 209.
-(pdftex.def)             Requested size: 403.90184pt x 223.23004pt.
-
-Overfull \hbox (96.61197pt too wide) in paragraph at lines 209--209
+Overfull \hbox (32.91882pt too wide) in paragraph at lines 126--126
  [] 
  []
 
+[8
 
-Overfull \vbox (15.28764pt too high) detected at line 209
+ <./linreg05.png>] <./linreg09.png, id=92, 770.88pt x 410.13225pt>
+File: ./linreg09.png Graphic file (type png)
+
+<use ./linreg09.png>
+Package pdftex.def Info: ./linreg09.png used on input line 133.
+(pdftex.def)             Requested size: 323.7674pt x 172.25436pt.
+
+Overfull \hbox (16.47752pt too wide) in paragraph at lines 133--133
+ [] 
+ []
+
+[9
+
+ <./linreg09.png>] <./linreg10.png, id=100, 770.88pt x 410.13225pt>
+File: ./linreg10.png Graphic file (type png)
+
+<use ./linreg10.png>
+Package pdftex.def Info: ./linreg10.png used on input line 140.
+(pdftex.def)             Requested size: 323.7674pt x 172.25436pt.
+
+Overfull \hbox (16.47752pt too wide) in paragraph at lines 140--140
+ [] 
+ []
+
+[10
+
+ <./linreg10.png>] <./linreg11.png, id=108, 779.91376pt x 410.13225pt>
+File: ./linreg11.png Graphic file (type png)
+
+<use ./linreg11.png>
+Package pdftex.def Info: ./linreg11.png used on input line 147.
+(pdftex.def)             Requested size: 327.56155pt x 172.25436pt.
+
+Overfull \hbox (20.27168pt too wide) in paragraph at lines 147--147
+ [] 
  []
 
 [11
 
- <./ft-11-AnalyzingFunctions-eps-converted-to.pdf>] [12
+ <./linreg11.png>] <./linreg12.png, id=116, 770.88pt x 410.13225pt>
+File: ./linreg12.png Graphic file (type png)
+
+<use ./linreg12.png>
+Package pdftex.def Info: ./linreg12.png used on input line 154.
+(pdftex.def)             Requested size: 323.7674pt x 172.25436pt.
+
+Overfull \hbox (16.47752pt too wide) in paragraph at lines 154--154
+ [] 
+ []
+
+[12
+
+ <./linreg12.png>] <./linreg13.png, id=124, 770.88pt x 410.13225pt>
+File: ./linreg13.png Graphic file (type png)
+
+<use ./linreg13.png>
+Package pdftex.def Info: ./linreg13.png used on input line 161.
+(pdftex.def)             Requested size: 323.7674pt x 172.25436pt.
+
+Overfull \hbox (16.47752pt too wide) in paragraph at lines 161--161
+ [] 
+ []
+
+[13
+
+ <./linreg13.png>] [14
 
 ]
 \tf@nav=\write6
-\openout6 = `ft-12-Optimization.nav'.
+\openout6 = `ft-excel-04-LinearRegression.nav'.
 
 \tf@toc=\write7
-\openout7 = `ft-12-Optimization.toc'.
+\openout7 = `ft-excel-04-LinearRegression.toc'.
 
 \tf@snm=\write8
-\openout8 = `ft-12-Optimization.snm'.
+\openout8 = `ft-excel-04-LinearRegression.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 216.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 216.
-
-(./ft-12-Optimization.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 216.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 216.
-Package rerunfilecheck Info: File `ft-12-Optimization.out' has not changed.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 168.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 168.
+ (./ft-excel-04-LinearRegression.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 168.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 168.
+Package rerunfilecheck Info: File `ft-excel-04-LinearRegression.out' has not ch
+anged.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 216.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 168.
  ) 
 Here is how much of TeX's memory you used:
- 17142 strings out of 493029
- 329327 string characters out of 6136234
- 400442 words of memory out of 5000000
- 20216 multiletter control sequences out of 15000+600000
- 10390 words of font info for 38 fonts, out of 8000000 for 9000
+ 17021 strings out of 493029
+ 326077 string characters out of 6136234
+ 398195 words of memory out of 5000000
+ 20118 multiletter control sequences out of 15000+600000
+ 5620 words of font info for 21 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,16n,68p,398b,541s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmsy8.pfb>
-Output written on ft-12-Optimization.pdf (12 pages, 304425 bytes).
+ 56i,16n,68p,408b,518s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on ft-excel-04-LinearRegression.pdf (14 pages, 872363 bytes).
 PDF statistics:
- 177 PDF objects out of 1000 (max. 8388607)
- 130 compressed objects within 2 object streams
- 38 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 161 PDF objects out of 1000 (max. 8388607)
+ 105 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
+ 128 words of extra memory for PDF output out of 10000 (max. 10000000)
 

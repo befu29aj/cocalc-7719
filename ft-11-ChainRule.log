@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  23 NOV 2017 16:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  15 NOV 2017 16:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**ft-12-Optimization.tex
-(./ft-12-Optimization.tex
+**ft-11-ChainRule.tex
+(./ft-11-ChainRule.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
@@ -758,8 +758,8 @@ Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
 ))
 \c@expls=\count154
 \c@exercise=\count155
- (./ft-12-Optimization.aux)
-\openout1 = `ft-12-Optimization.aux'.
+ (./ft-11-ChainRule.aux)
+\openout1 = `ft-11-ChainRule.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
 LaTeX Font Info:    ... okay on input line 70.
@@ -854,9 +854,9 @@ LaTeX Info: Redefining \ref on input line 70.
 LaTeX Info: Redefining \pageref on input line 70.
 LaTeX Info: Redefining \nameref on input line 70.
 
-(./ft-12-Optimization.out) (./ft-12-Optimization.out)
+(./ft-11-ChainRule.out) (./ft-11-ChainRule.out)
 \@outlinefile=\write5
-\openout5 = `ft-12-Optimization.out'.
+\openout5 = `ft-11-ChainRule.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 70.
@@ -937,7 +937,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 LaTeX Info: Redefining \includegraphics on input line 70.
 
-(./ft-12-Optimization.nav)
+(./ft-11-ChainRule.nav)
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 74.
@@ -945,18 +945,18 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for U+msa on input line 87.
+LaTeX Font Info:    Try loading font information for U+msa on input line 104.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 87.
+LaTeX Font Info:    Try loading font information for U+msb on input line 104.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 87.
+line 104.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
@@ -966,115 +966,65 @@ thkerncmss.
 
 ] [3
 
-] <./extrema1.png, id=54, 927.465pt x 886.31125pt>
-File: ./extrema1.png Graphic file (type png)
- <use ./extrema1.png>
-Package pdftex.def Info: ./extrema1.png used on input line 109.
-(pdftex.def)             Requested size: 278.24164pt x 265.89542pt.
+] [4
 
-Overfull \vbox (44.35301pt too high) detected at line 109
- []
+] [5
 
-[4
+] [6
 
- <./extrema1.png>] <./extrema2.png, id=63, 927.465pt x 886.31125pt>
-File: ./extrema2.png Graphic file (type png)
+] [7
 
-<use ./extrema2.png>
-Package pdftex.def Info: ./extrema2.png used on input line 116.
-(pdftex.def)             Requested size: 278.24164pt x 265.89542pt.
-
-Overfull \vbox (44.35301pt too high) detected at line 116
- []
-
-[5
-
- <./extrema2.png>] [6
-
-] <./extrema3.png, id=80, 927.465pt x 886.31125pt>
-File: ./extrema3.png Graphic file (type png)
-
-<use ./extrema3.png>
-Package pdftex.def Info: ./extrema3.png used on input line 138.
-(pdftex.def)             Requested size: 278.24164pt x 265.89542pt.
-
-Overfull \vbox (44.35301pt too high) detected at line 138
- []
-
-[7
-
- <./extrema3.png>] [8
+] [8
 
 ] [9
 
 ] [10
 
-]
-Package epstopdf Info: Source file: <./ft-11-AnalyzingFunctions.eps>
-(epstopdf)                    date: 2017-11-15 16:20:32
-(epstopdf)                    size: 3404807 bytes
-(epstopdf)             Output file: <./ft-11-AnalyzingFunctions-eps-converted-t
-o.pdf>
-(epstopdf)                    date: 2017-11-15 16:21:10
-(epstopdf)                    size: 114546 bytes
-(epstopdf)             Command: <repstopdf --outfile=./ft-11-AnalyzingFunctions
--eps-converted-to.pdf ./ft-11-AnalyzingFunctions.eps>
-(epstopdf)             \includegraphics on input line 209.
-Package epstopdf Info: Output file is already uptodate.
+] [11
 
-<./ft-11-AnalyzingFunctions-eps-converted-to.pdf, id=120, 1009.7725pt x 558.085
-pt>
-File: ./ft-11-AnalyzingFunctions-eps-converted-to.pdf Graphic file (type pdf)
- <use ./ft-11-AnalyzingFunctions-eps-converted-to.pdf>
-Package pdftex.def Info: ./ft-11-AnalyzingFunctions-eps-converted-to.pdf used o
-n input line 209.
-(pdftex.def)             Requested size: 403.90184pt x 223.23004pt.
+] [12
 
-Overfull \hbox (96.61197pt too wide) in paragraph at lines 209--209
- [] 
- []
+] [13
 
+] [14
 
-Overfull \vbox (15.28764pt too high) detected at line 209
- []
+] [15
 
-[11
-
- <./ft-11-AnalyzingFunctions-eps-converted-to.pdf>] [12
+] [16
 
 ]
 \tf@nav=\write6
-\openout6 = `ft-12-Optimization.nav'.
+\openout6 = `ft-11-ChainRule.nav'.
 
 \tf@toc=\write7
-\openout7 = `ft-12-Optimization.toc'.
+\openout7 = `ft-11-ChainRule.toc'.
 
 \tf@snm=\write8
-\openout8 = `ft-12-Optimization.snm'.
+\openout8 = `ft-11-ChainRule.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 216.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 216.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 302.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 302.
 
-(./ft-12-Optimization.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 216.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 216.
-Package rerunfilecheck Info: File `ft-12-Optimization.out' has not changed.
+(./ft-11-ChainRule.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 302.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 302.
+Package rerunfilecheck Info: File `ft-11-ChainRule.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 216.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 302.
  ) 
 Here is how much of TeX's memory you used:
- 17142 strings out of 493029
- 329327 string characters out of 6136234
- 400442 words of memory out of 5000000
- 20216 multiletter control sequences out of 15000+600000
+ 17184 strings out of 493029
+ 329794 string characters out of 6136234
+ 402930 words of memory out of 5000000
+ 20236 multiletter control sequences out of 15000+600000
  10390 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,16n,68p,398b,541s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,16n,68p,395b,670s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texl
@@ -1084,10 +1034,10 @@ t/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmsy8.pfb>
-Output written on ft-12-Optimization.pdf (12 pages, 304425 bytes).
+Output written on ft-11-ChainRule.pdf (16 pages, 106276 bytes).
 PDF statistics:
- 177 PDF objects out of 1000 (max. 8388607)
- 130 compressed objects within 2 object streams
- 38 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 218 PDF objects out of 1000 (max. 8388607)
+ 174 compressed objects within 2 object streams
+ 66 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
