@@ -143,6 +143,16 @@ $x$-intercept using the following iterative procedure:
 
 \begin{frame}
   \frametitle{Exercise}
+{\ubung} Solve the equation
+\begin{equation}
+  \label{eq:puxeepha}
+  \cos{}x=x
+\end{equation}
+using Newton's Method.
+\end{frame}
+
+\begin{frame}
+  \frametitle{Exercise}
 {\ubung} Analyze the following function:
 \begin{equation}
   \label{eq:aehoilao}
@@ -166,6 +176,14 @@ graphing calculator to get you started.
   \label{eq:iejuangi}
   x^{2}\sqrt{2-x-x^{2}}=1
 \end{equation}
+\begin{equation}
+  \label{eq:oungiegu}
+  4e^{-x^{2}}\sin{}x=x^{2}-x+1
+\end{equation}
+\begin{equation}
+  \label{eq:ohpaejae}
+  3\sin(x^{2})=2x
+\end{equation}
 \end{frame}
 
 \begin{frame}
@@ -176,6 +194,17 @@ correct to four decimal places.
   \label{eq:veiyeini}
   f(x)=x^{6}-x^{4}+3x^{2}-2x
 \end{equation}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Exercise}
+{\ubung} Of the infinitely many lines that are tangent to the curve
+\begin{equation}
+  \label{eq:ohtooyiv}
+  y=-\sin{}x
+\end{equation}
+and pass through the origin, there is one that has the largest slope.
+Use Newton's Method to find the slope of that line.
 \end{frame}
 
 \begin{frame}
@@ -314,11 +343,6 @@ and the two solutions $x_{1}=-2$ and $x_{2}=2$. The first solution is
 where the distance between $P$ and $Q$ is at a maximum. The second
 solution is where the distance is at a minimum. Therefore, the point
 $Q=(2,2\sqrt{3})$ is the answer to the question in this exercise.
-\end{frame}
-
-\begin{frame}
-  \frametitle{End of Lesson}
-Next Lesson: Fundamental Theorem of Calculus
 \end{frame}
 
 \end{document}
