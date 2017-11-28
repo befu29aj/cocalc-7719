@@ -48,7 +48,6 @@
     "eq:ahyoimij"
     "eq:uzuwooba"
     "eq:iboohoht"
-    "eq:waduoqui"
     "eq:ohkaedoy"
     "eq:teecakie"
     "eq:saepaego"
