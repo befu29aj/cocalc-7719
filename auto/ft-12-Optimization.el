@@ -41,6 +41,8 @@
     "eq:ebukatio"
     "eq:inaidimo"
     "eq:peimoojo"
+    "eq:ohchamig"
+    "eq:aichohse"
     "eq:udaiguph"
     "eq:tohwoiph"
     "eq:ahyoimij"
