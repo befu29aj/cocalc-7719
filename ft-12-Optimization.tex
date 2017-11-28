@@ -181,6 +181,164 @@ To analyze a function, determine the following features:
 \end{frame}
 
 \begin{frame}
+  \frametitle{Analyzing Functions Step-By-Step I}
+Here is a step-by-step guide to analyzing functions.
+\begin{enumerate}
+\item Determine the $x$-intercepts (also called zeros). Set $f(x)=0$
+  and find the solution set.
+\item Determine the critical points. Find the derivative $f'(x)$ and
+  check whether there are points in the domain of $f$ that are not in
+  the domain of $f'$. Then set $f'(x)=0$ and find the solution set.
+\item Determine whether the critical points are maxima or minima or
+  neither. Find $f''(x)$ and check whether $f''$ at the critical
+  points is positive, negative, or neither. 
+\end{enumerate}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Analyzing Functions Step-By-Step II}
+Here is a step-by-step guide to analyzing functions.
+\begin{enumerate}
+\setcounter{enumi}{3}
+\item Determine the inflection points. Set $f''(x)=0$ and find the
+  solution set.
+\item Determine the asymptotes. See next slide.
+\item Determine whether, for all $x$ in the domain of $f$,
+  $f(x)-f(-x)=0$ (in which case $f$ is even) or $f(x)+f(-x)=0$ (in
+  which case $f$ is odd).
+\item Using the information you have, and possibly a table of function
+  values, graph the function. Then determine the domain and range of
+  $f$.
+\end{enumerate}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Finding Asymptotes I}
+An asymptote is a linear function ($y=kx+d$ with slope $k$ and
+$y$-intercept $d$) which the function graph of $f$ approaches. There
+are three kinds of asymptotes.
+\begin{block}{Vertical Asymptote}
+  A vertical asymptote, strictly speaking, is not a linear function.
+  It is a curve defined by $x=c$, where $c$ is a real number (we call
+  real numbers like $c$ \alert{constants}). You can often find
+  vertical asymptotes at points where $f$ is undefined.
+\end{block}
+Find vertical asymptotes by checking points which are not in the
+domain of the function $f$. 
+\begin{equation}
+  \label{eq:peimoojo}
+f(x)=\frac{1}{x-2}+3\mbox{ has an asymptote at }x=2
+\end{equation}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Finding Asymptotes I}
+Example:
+\begin{equation}
+  \label{eq:peimoojo}
+f(x)=\frac{1}{x-2}+3\mbox{ has an asymptote at }x=2
+\end{equation}
+\begin{figure}[h]
+\includegraphics[scale=.25]{./asymp1.png}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Finding Asymptotes I}
+Example:
+\begin{equation}
+  \label{eq:peimoojo}
+f(x)=\ln(x+\pi)\mbox{ has an asymptote at }x=-\pi
+\end{equation}
+\begin{figure}[h]
+\includegraphics[scale=.25]{./asymp2.png}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Finding Asymptotes II}
+\begin{block}{Horizontal Asymptote}
+  A horizontal asymptote is a linear function with slope $k=0$. Its
+  equation is $y=c$, where $c$ is a constant. There are horizontal
+  asymptotes for functions whose limits is a constant and for rational
+  functions whose numerator and denominator polynomials share the same
+  degree.
+\end{block}
+Find horizontal asymptotes by checking
+\begin{equation}
+  \label{eq:udaiguph}
+  \lim_{x\rightarrow\infty}f'(x)\mbox{ and }\lim_{x\rightarrow{}-\infty}f'(x)
+\end{equation}
+If the limit is $k=0$, then that is also the slope of the asymptote.
+\end{frame}
+
+\begin{frame}
+  \frametitle{Finding Asymptotes II}
+Example
+\begin{equation}
+  \label{eq:tohwoiph}
+f(x)=e^{\frac{x}{2}}+7\mbox{ has the asymptote }y=7
+\end{equation}
+\begin{figure}[h]
+\includegraphics[scale=.25]{./asymp3.png}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Finding Asymptotes II}
+Example (this example additionally has two
+  vertical asymptotes):
+\begin{equation}
+  \label{eq:ahyoimij}
+  f(x)=\frac{\pi{}x^{2}+2x-1}{-7x^{2}+3x}\mbox{ has asymptotes }y=-\frac{e}{7},x=\frac{22}{7},x=0
+\end{equation}
+\begin{figure}[h]
+\includegraphics[scale=.25]{./asymp4.png}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Finding Asymptotes III}
+\begin{block}{Sloped Asymptote}
+  A sloped asymptote is a linear function with a positive or a
+  negative slope, $y=kx+d$ with $k\neq{}0$. There are sloped
+  asymptotes for rational functions where the numerator polynomial's
+  degree exceeds the denominator polynomial's degree by 1.
+\end{block}
+Find sloped asymptotes by checking
+\begin{equation}
+  \label{eq:uzuwooba}
+  \lim_{x\rightarrow\infty}f'(x)\mbox{ and }\lim_{x\rightarrow{}-\infty}f'(x)
+\end{equation}
+If the limit is $k\neq{}0$, then that is also the slope of the
+asymptote. Hyperbolas also sometimes have sloped asymptotes. 
+\end{frame}
+
+\begin{frame}
+  \frametitle{Finding Asymptotes III}
+Example:
+\begin{equation}
+  \label{eq:iboohoht}
+  f(x)=\frac{3x^{2}-6x+2}{5x+4}\mbox{ has the asymptote }y=\frac{3}{5}x-\frac{5}{3}
+\end{equation}
+\begin{figure}[h]
+\includegraphics[scale=.25]{./asymp5.png}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Finding Asymptotes III}
+Example:
+\begin{equation}
+  \label{eq:waduoqui}
+  f(\vartheta)=\sinh\vartheta
+\end{equation}
+\begin{figure}[h]
+\includegraphics[scale=.25]{./asymp6.png}
+\end{figure}
+\end{frame}
+
+\begin{frame}
   \frametitle{Analyzing Functions Exercises}
 Analyze the following functions:
 \begin{equation}
