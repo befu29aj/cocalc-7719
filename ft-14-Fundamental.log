@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  29 NOV 2017 16:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  29 NOV 2017 16:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**ft-13-NewtonsMethod.tex
-(./ft-13-NewtonsMethod.tex
+**ft-14-Fundamental.tex
+(./ft-14-Fundamental.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
@@ -758,23 +758,23 @@ Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
 ))
 \c@expls=\count154
 \c@exercise=\count155
- (./ft-13-NewtonsMethod.aux)
-\openout1 = `ft-13-NewtonsMethod.aux'.
+ (./ft-14-Fundamental.aux)
+\openout1 = `ft-14-Fundamental.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -840,7 +840,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box55
-Package hyperref Info: Link coloring OFF on input line 70.
+Package hyperref Info: Link coloring OFF on input line 71.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -850,66 +850,66 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count162
 )
-LaTeX Info: Redefining \ref on input line 70.
-LaTeX Info: Redefining \pageref on input line 70.
-LaTeX Info: Redefining \nameref on input line 70.
+LaTeX Info: Redefining \ref on input line 71.
+LaTeX Info: Redefining \pageref on input line 71.
+LaTeX Info: Redefining \nameref on input line 71.
 
-(./ft-13-NewtonsMethod.out) (./ft-13-NewtonsMethod.out)
+(./ft-14-Fundamental.out) (./ft-14-Fundamental.out)
 \@outlinefile=\write5
-\openout5 = `ft-13-NewtonsMethod.out'.
+\openout5 = `ft-14-Fundamental.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 70.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 71.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 70.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 71.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 70.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 71.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 71.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 70.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 71.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 70.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 70.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 71.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 71.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 70.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 71.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 70.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 70.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 71.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 71.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 70.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 71.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 70.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 70.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 71.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 71.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 70.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 71.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 70.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 71.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 70.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 71.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 70.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 71.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 70.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 71.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 70.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 71.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 70.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 71.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 70.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 71.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 70.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 70.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 71.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 71.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 7
-0.
+1.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-70.
+71.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 70.
+ut line 71.
 
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bas
 ic-dictionary/translator-basic-dictionary-English.dict
@@ -935,28 +935,33 @@ Dictionary: translator-numbers-dictionary, Language: English
 orem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 70.
+LaTeX Info: Redefining \includegraphics on input line 71.
 
-(./ft-13-NewtonsMethod.nav)
+(./ft-14-Fundamental.nav)
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 74.
+(Font)              size <5> substituted on input line 75.
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for U+msa on input line 99.
+<./regiontangent.png, id=33, 853.1875pt x 301.125pt>
+File: ./regiontangent.png Graphic file (type png)
+ <use ./regiontangent.png>
+Package pdftex.def Info: ./regiontangent.png used on input line 88.
+(pdftex.def)             Requested size: 298.6201pt x 105.39532pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 88.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 99.
+LaTeX Font Info:    Try loading font information for U+msb on input line 88.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 99.
+line 88.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
@@ -964,7 +969,7 @@ thkerncmss.
 )
 [2
 
-] [3
+ <./regiontangent.png>] [3
 
 ] [4
 
@@ -984,25 +989,39 @@ thkerncmss.
 
 ] [12
 
-] [13
+]
+Overfull \vbox (1.4386pt too high) detected at line 300
+ []
+
+[13
 
 ] [14
 
 ] [15
 
-]
-<./coneopt.png, id=139, 211.79124pt x 176.66pt>
-File: ./coneopt.png Graphic file (type png)
- <use ./coneopt.png>
-Package pdftex.def Info: ./coneopt.png used on input line 233.
-(pdftex.def)             Requested size: 158.84303pt x 132.49466pt.
- [16
+] [16
 
- <./coneopt.png (PNG copy)>] [17
+] <./ftoc-02.png, id=176, 533.74406pt x 516.42938pt>
+File: ./ftoc-02.png Graphic file (type png)
 
-] [18
+<use ./ftoc-02.png>
+Package pdftex.def Info: ./ftoc-02.png used on input line 364.
+(pdftex.def)             Requested size: 160.12445pt x 154.93001pt.
+ [17
 
-] [19
+ <./ftoc-02.png>]
+<./ftoc-01.png, id=184, 1003.75pt x 1003.75pt>
+File: ./ftoc-01.png Graphic file (type png)
+ <use ./ftoc-01.png>
+Package pdftex.def Info: ./ftoc-01.png used on input line 381.
+(pdftex.def)             Requested size: 130.49208pt x 130.49208pt.
+
+Overfull \vbox (28.3311pt too high) detected at line 381
+ []
+
+[18
+
+ <./ftoc-01.png (PNG copy)>] [19
 
 ] [20
 
@@ -1010,53 +1029,73 @@ Package pdftex.def Info: ./coneopt.png used on input line 233.
 
 ] [22
 
+] [23
+
+]
+<./intvel.png, id=234, 265.99374pt x 217.81375pt>
+File: ./intvel.png Graphic file (type png)
+ <use ./intvel.png>
+Package pdftex.def Info: ./intvel.png used on input line 494.
+(pdftex.def)             Requested size: 172.89388pt x 141.57724pt.
+ [24
+
+ <./intvel.png>] [25
+
+] [26
+
+] [27
+
+] [28
+
 ]
 \tf@nav=\write6
-\openout6 = `ft-13-NewtonsMethod.nav'.
+\openout6 = `ft-14-Fundamental.nav'.
 
 \tf@toc=\write7
-\openout7 = `ft-13-NewtonsMethod.toc'.
+\openout7 = `ft-14-Fundamental.toc'.
 
 \tf@snm=\write8
-\openout8 = `ft-13-NewtonsMethod.snm'.
+\openout8 = `ft-14-Fundamental.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 324.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 324.
- (./ft-13-NewtonsMethod.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 324.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 324.
-Package rerunfilecheck Info: File `ft-13-NewtonsMethod.out' has not changed.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 548.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 548.
+ (./ft-14-Fundamental.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 548.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 548.
+Package rerunfilecheck Info: File `ft-14-Fundamental.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 324.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 548.
  ) 
 Here is how much of TeX's memory you used:
- 17126 strings out of 493029
- 327875 string characters out of 6136234
- 400616 words of memory out of 5000000
- 20176 multiletter control sequences out of 15000+600000
- 10852 words of font info for 40 fonts, out of 8000000 for 9000
+ 17282 strings out of 493029
+ 330821 string characters out of 6136234
+ 404349 words of memory out of 5000000
+ 20290 multiletter control sequences out of 15000+600000
+ 11040 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,16n,68p,399b,518s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,16n,68p,397b,850s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmtt10.pfb>
-Output written on ft-13-NewtonsMethod.pdf (22 pages, 136619 bytes).
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm
+10.pfb>
+Output written on ft-14-Fundamental.pdf (28 pages, 347683 bytes).
 PDF statistics:
- 243 PDF objects out of 1000 (max. 8388607)
- 193 compressed objects within 2 object streams
- 64 named destinations out of 1000 (max. 500000)
- 78 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 336 PDF objects out of 1000 (max. 8388607)
+ 270 compressed objects within 3 object streams
+ 103 named destinations out of 1000 (max. 500000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
