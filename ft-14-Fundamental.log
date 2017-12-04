@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  4 DEC 2017 23:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  4 DEC 2017 23:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1039,32 +1039,45 @@ Package pdftex.def Info: ./negarea.png used on input line 462.
 
  <./negarea.png>] [24
 
-] <./NegativeArea.png, id=242, 927.465pt x 886.31125pt>
-File: ./NegativeArea.png Graphic file (type png)
+] [25
 
-<use ./NegativeArea.png>
-Package pdftex.def Info: ./NegativeArea.png used on input line 481.
+] [26
+
+] [27
+
+] [28
+
+] [29
+
+] [30
+
+]
+<./NegativeArea.png, id=300, 927.465pt x 886.31125pt>
+File: ./NegativeArea.png Graphic file (type png)
+ <use ./NegativeArea.png>
+Package pdftex.def Info: ./NegativeArea.png used on input line 606.
 (pdftex.def)             Requested size: 185.48972pt x 177.25911pt.
- [25
+
+[31
 
  <./NegativeArea.png>]
-<./areabetwcurs.png, id=251, 717.68124pt x 564.1075pt>
+<./areabetwcurs.png, id=309, 717.68124pt x 564.1075pt>
 File: ./areabetwcurs.png Graphic file (type png)
 
 <use ./areabetwcurs.png>
-Package pdftex.def Info: ./areabetwcurs.png used on input line 499.
+Package pdftex.def Info: ./areabetwcurs.png used on input line 624.
 (pdftex.def)             Requested size: 107.64754pt x 84.61247pt.
- [26
+ [32
 
  <./areabetwcurs.png>]
-<./areabc.png, id=260, 669.50125pt x 594.22pt>
+<./areabc.png, id=318, 669.50125pt x 594.22pt>
 File: ./areabc.png Graphic file (type png)
  <use ./areabc.png>
-Package pdftex.def Info: ./areabc.png used on input line 508.
+Package pdftex.def Info: ./areabc.png used on input line 633.
 (pdftex.def)             Requested size: 133.89787pt x 118.84189pt.
- [27
+ [33
 
- <./areabc.png>] [28
+ <./areabc.png>] [34
 
 ]
 \tf@nav=\write6
@@ -1076,11 +1089,11 @@ Package pdftex.def Info: ./areabc.png used on input line 508.
 \tf@snm=\write8
 \openout8 = `ft-14-Fundamental.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 515.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 515.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 640.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 640.
  (./ft-14-Fundamental.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 515.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 515.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 640.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 640.
 Package rerunfilecheck Info: File `ft-14-Fundamental.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1088,13 +1101,13 @@ Package rerunfilecheck Info: File `ft-14-Fundamental.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 515.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 640.
  ) 
 Here is how much of TeX's memory you used:
- 17293 strings out of 493029
- 331069 string characters out of 6136234
- 404299 words of memory out of 5000000
- 20300 multiletter control sequences out of 15000+600000
+ 17357 strings out of 493029
+ 331759 string characters out of 6136234
+ 404799 words of memory out of 5000000
+ 20332 multiletter control sequences out of 15000+600000
  11040 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,16n,68p,397b,850s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1111,10 +1124,10 @@ sfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm
 10.pfb>
-Output written on ft-14-Fundamental.pdf (28 pages, 1245752 bytes).
+Output written on ft-14-Fundamental.pdf (34 pages, 1256878 bytes).
 PDF statistics:
- 338 PDF objects out of 1000 (max. 8388607)
- 267 compressed objects within 3 object streams
- 101 named destinations out of 1000 (max. 500000)
+ 403 PDF objects out of 1000 (max. 8388607)
+ 325 compressed objects within 4 object streams
+ 133 named destinations out of 1000 (max. 500000)
  120 words of extra memory for PDF output out of 10000 (max. 10000000)
 
