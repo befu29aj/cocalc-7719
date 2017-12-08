@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1512429759 "ft-14-Fundamental.tex" "ft-14-Fundamental.pdf" "ft-14-Fundamental" 1512429762
+["pdflatex"] 1512496365 "ft-14-Fundamental.tex" "ft-14-Fundamental.pdf" "ft-14-Fundamental" 1512496370
   "/etc/texmf/web2c/texmf.cnf" 1503313332 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -196,19 +196,19 @@
   "NegativeArea.png" 1512160067 73967 f39ad5bd25a6c93669b56cb9658d5e03 ""
   "areabc.png" 1512160067 24452 6bbf60daa5881d74e521b4d2864b3cc6 ""
   "areabetwcurs.png" 1512160067 28911 90fb476b9e87e44dc093800bdff05a7c ""
-  "ft-14-Fundamental.aux" 1512429762 11681 dba0b564fb3db532f869f36b01787eea ""
-  "ft-14-Fundamental.nav" 1512429762 3380 17fe513ea6768354c0728a178ddfa1d2 ""
-  "ft-14-Fundamental.out" 1512429760 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "ft-14-Fundamental.aux" 1512496369 11681 dba0b564fb3db532f869f36b01787eea ""
+  "ft-14-Fundamental.nav" 1512496369 3380 17fe513ea6768354c0728a178ddfa1d2 ""
+  "ft-14-Fundamental.out" 1512496366 0 d41d8cd98f00b204e9800998ecf8427e ""
   "ft-14-Fundamental.tex" 1512429747 19191 5988a441587cf6ab3fa2d1e53b351830 ""
   "ftoc-01.png" 1511972953 18022 3b662ac17187fd23a759156bab52cedd ""
   "ftoc-02.png" 1511972953 133599 922ce20190ad30fb9591d2403117c583 ""
   "negarea.png" 1512160067 881101 caaebd9dc9002b16d99abd84f7a8459e ""
   "regiontangent.png" 1511894218 20899 81045623c0872e1e514b3565957c1223 ""
   (generated)
-  "ft-14-Fundamental.nav"
-  "ft-14-Fundamental.pdf"
-  "ft-14-Fundamental.aux"
-  "ft-14-Fundamental.toc"
   "ft-14-Fundamental.log"
+  "ft-14-Fundamental.aux"
+  "ft-14-Fundamental.pdf"
+  "ft-14-Fundamental.nav"
+  "ft-14-Fundamental.toc"
   "ft-14-Fundamental.snm"
   "ft-14-Fundamental.out"
