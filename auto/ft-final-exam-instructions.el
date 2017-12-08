@@ -12,6 +12,26 @@
     "enumerate"
     "syllogism"
     "october"
-    "xcolor"))
+    "xcolor")
+   (LaTeX-add-labels
+    "eq:thephohk"
+    "eq:uchoowai"
+    "eq:eishahji"
+    "eq:vohtovuj"
+    "eq:laishedu"
+    "eq:einicohx"
+    "eq:hiexaize"
+    "eq:uleinaig"
+    "eq:teenaeta"
+    "eq:eexinuli"
+    "eq:eipheico"
+    "eq:neebazek"
+    "eq:ohfohbee"
+    "eq:aawozoog"
+    "eq:aethaeng"
+    "eq:eangekuu"
+    "eq:teighaqu"
+    "eq:pohkeiza"
+    "eq:ohgahjah"))
  :latex)
 
