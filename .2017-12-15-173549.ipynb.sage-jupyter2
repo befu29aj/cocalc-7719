@@ -1,11 +1,37 @@
-{"type":"settings","kernel":"octave","backend_state":"running","trust":true,"kernel_state":"idle","kernel_usage":{"cpu":0,"memory":5361664}}
+{"type":"settings","kernel":"sagemath","backend_state":"running","trust":true,"kernel_state":"idle","kernel_usage":{"cpu":0,"memory":292573184}}
 {"type":"file","last_load":1513388154900}
 {"type":"cell","id":"4a0efb","pos":0,"input":"Solve the logarithmic equation. Do not use a calculator for your calculation. It's OK to use a calculator to check your answer. [10]","cell_type":"markdown"}
 {"type":"cell","id":"aba880","pos":1,"input":"$$\\log_{2}x-\\log_{2}\\frac{1}{4}=3$$","cell_type":"markdown"}
 {"exec_count":2,"input":"The solution set is $S=\\{2\\}$.","state":"done","pos":2,"cell_type":"markdown","type":"cell","id":"5a2284","kernel":"vpython"}
-{"type":"cell","id":"5688f9","pos":2.5,"input":"Solve the exponential equation. Do not use a calculator for your calculation. It's OK to use a calculator to check your answer. [10]","cell_type":"markdown"}
-{"exec_count":3,"input":"$$3^{x-1}=e^{3x}$$","state":"done","pos":2.75,"cell_type":"markdown","type":"cell","id":"53c105","kernel":"vpython"}
-{"type":"cell","id":"403ef9","pos":3.75,"input":"The solution set is $S=\\left\\{\\frac{\\ln{}3}{\\ln{}3-3}\\right\\}\\mbox{ or }S=\\{-0.57779\\}$.","cell_type":"markdown"}
-{"type":"cell","id":"bf848e","pos":4.75,"input":"Use Newton's method to find an $x$-intercept for $f(x)=e^{x}-10x$. Show all of your work and all intermediate steps! [12]","cell_type":"markdown"}
-{"output":{"0":{"text":"error: load: unable to find file pkg\n","name":"stdout"}},"exec_count":1,"start":1513388515385,"input":"load pkg specfun","state":"done","pos":5.75,"type":"cell","end":1513388515401,"id":"5d975b","kernel":"octave"}
-{"type":"cell","id":"6385db","pos":6.75,"input":""}
+{"type":"cell","id":"5688f9","pos":3,"input":"Solve the exponential equation. Do not use a calculator for your calculation. It's OK to use a calculator to check your answer. [10]","cell_type":"markdown"}
+{"exec_count":3,"input":"$$3^{x-1}=e^{3x}$$","state":"done","pos":4,"cell_type":"markdown","type":"cell","id":"53c105","kernel":"vpython"}
+{"type":"cell","id":"403ef9","pos":5,"input":"The solution set is $S=\\left\\{\\frac{\\ln{}3}{\\ln{}3-3}\\right\\}\\mbox{ or }S=\\{-0.57779\\}$.","cell_type":"markdown"}
+{"type":"cell","id":"bf848e","pos":6,"input":"Use Newton's method to find an $x$-intercept for $f(x)=e^{x}-10x$. Show all of your work and all intermediate steps! [12]","cell_type":"markdown"}
+{"output":{"0":{"ename":"SyntaxError","evalue":"invalid syntax (<ipython-input-1-68ae2052d2fd>, line 1)","traceback":["\u001b[0;36m  File \u001b[0;32m\"<ipython-input-1-68ae2052d2fd>\"\u001b[0;36m, line \u001b[0;32m1\u001b[0m\n\u001b[0;31m    pkg load specfun\u001b[0m\n\u001b[0m           ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"]}},"exec_count":1,"start":1513389885170,"input":"pkg load specfun","scrolled":false,"state":"done","pos":7,"type":"cell","end":1513389885189,"id":"5d975b","kernel":"sagemath"}
+{"start":1513389885186,"input":"-lambertw(-0.1)","state":"done","pos":8,"type":"cell","end":1513389885186,"id":"6385db","kernel":"sagemath"}
+{"start":1513389885186,"input":"-lambertw(-1,-0.1)","state":"done","pos":9,"type":"cell","end":1513389885186,"id":"c0281b","kernel":"sagemath"}
+{"type":"cell","id":"376756","pos":10,"input":"Find the area under the curve $y=(x^{2}-1)x$ between $x=-1$ and $x=0$. [12]","cell_type":"markdown"}
+{"start":1513389885188,"input":"from sage.symbolic.integration.integral import definite_integral","state":"done","pos":12,"type":"cell","end":1513389885188,"id":"f69094","kernel":"sagemath"}
+{"start":1513389885188,"input":"definite_integral((x^2-1)*x,x,-1,0)","state":"done","pos":13,"type":"cell","end":1513389885188,"id":"fcadb7","kernel":"sagemath"}
+{"type":"cell","id":"de0b0a","pos":14,"input":"Differentiate [12]","cell_type":"markdown"}
+{"type":"cell","id":"ee699e","pos":15,"input":"$$f(x)=(x+4)\\sqrt{x-1}$$","cell_type":"markdown"}
+{"start":1513389885187,"input":"x=var('x')","state":"done","pos":11,"type":"cell","end":1513389885187,"id":"238f48","kernel":"sagemath"}
+{"start":1513389885189,"input":"latex(diff((x+4)*sqrt(x-1),x))","scrolled":false,"state":"done","pos":16,"type":"cell","end":1513389885189,"id":"027203","kernel":"sagemath"}
+{"type":"cell","id":"50d2a6","pos":17,"input":"$$\\frac{x + 4}{2 \\, \\sqrt{x - 1}} + \\sqrt{x - 1}$$","cell_type":"markdown"}
+{"type":"cell","id":"ab9de8","pos":18,"input":"A juice shop wants to make the perfect banana smoothie. In order to do so, they need the smoothie to have 55% banana juice. The shop has a solution with 30% banana juice and a solution with 70% banana juice. How much of 30% banana juice do they need to get 100L of 55% banana juice? [10]","cell_type":"markdown"}
+{"type":"cell","id":"3c61e2","pos":19,"input":"Consider the equation $$0.30x+0.70y=0.55\\cdot{}100$$","cell_type":"markdown"}
+{"type":"cell","id":"a42f23","pos":20,"input":"<font color=\"red\">37.5</font> litres of 30% banana juice is needed to make 100 litres of 55% banana juice.","cell_type":"markdown"}
+{"type":"cell","id":"73a038","pos":21,"input":"What are the critical points of the function $$g(s)=(4s^{2}-15s-18)\\frac{1}{6}s$$","cell_type":"markdown"}
+{"output":{"0":{"data":{"text/plain":"\\frac{1}{6} \\, {\\left(8 \\, s - 15\\right)} s + \\frac{2}{3} \\, s^{2} - \\frac{5}{2} \\, s - 3"},"exec_count":3}},"exec_count":3,"start":1513390280643,"input":"latex(diff((4*s^2-15*s-18)*(1/6)*s,s))","scrolled":false,"state":"done","pos":22,"collapsed":true,"cell_type":"code","type":"cell","end":1513390280660,"id":"76b905","kernel":"sagemath"}
+{"exec_count":2,"start":1513390189794,"input":"s=var('s')","state":"done","pos":21.5,"cell_type":"code","type":"cell","end":1513390189796,"id":"8a7d2e","kernel":"sagemath"}
+{"type":"cell","id":"d6dd63","pos":23,"input":"$$\\frac{1}{6} \\, {\\left(8 \\, s - 15\\right)} s + \\frac{2}{3} \\, s^{2} - \\frac{5}{2} \\, s - 3$$","cell_type":"markdown"}
+{"output":{"0":{"data":{"text/plain":"1/6*(8*s - 15)*s + 2/3*s^2 - 5/2*s - 3"},"exec_count":4}},"exec_count":4,"start":1513390343687,"input":"diff((4*s^2-15*s-18)*(1/6)*s,s)","state":"done","pos":21.75,"type":"cell","end":1513390343695,"id":"3007e1","kernel":"sagemath"}
+{"output":{"0":{"data":{"text/plain":"[s == 3, s == (-1/2)]"},"exec_count":5}},"exec_count":5,"start":1513390393233,"input":"solve(1/6*(8*s - 15)*s + 2/3*s^2 - 5/2*s - 3,s)","state":"done","pos":24,"type":"cell","end":1513390393251,"id":"580629","kernel":"sagemath"}
+{"output":{"0":{"data":{"text/plain":"4 \\, s - 5"},"exec_count":7}},"exec_count":7,"start":1513390449196,"input":"latex(diff(1/6*(8*s - 15)*s + 2/3*s^2 - 5/2*s - 3),s)","scrolled":false,"state":"done","pos":25,"collapsed":true,"type":"cell","end":1513390449212,"id":"cf93ff","kernel":"sagemath"}
+{"type":"cell","id":"4b3ee4","pos":26,"input":"The second derivative is $$4 \\, s - 5$$","cell_type":"markdown"}
+{"type":"cell","id":"d7955c","pos":27,"input":"Therefore, $x=3$ is a local minimum; $x=-\\frac{1}{2}$ is a local maximum.","cell_type":"markdown"}
+{"type":"cell","id":"24ac5a","pos":28,"input":"Forensic scientists determine the temperature $T$ (in $^{\\circ}C$) of a body $t$ hours after death from the equation","cell_type":"markdown"}
+{"type":"cell","id":"dd3914","pos":29,"input":"$$T=T_{0}+(37-T_{0})0.87^{t}$$","cell_type":"markdown"}
+{"exec_count":8,"input":"where $T_{0}$ is the air temperature. If a body is discovered at midnight with a body temperature of 27$^{\\circ}C$ in a room with air temperature 22$^{\\circ}C$, at what time did death occur (use the hour-minute format for your answer, for \\mbox{example} 7:42pm)? [10]","state":"done","pos":30,"cell_type":"markdown","type":"cell","id":"1b3c55","kernel":"sagemath"}
+{"exec_count":9,"input":"$$t=\\frac{\\ln\\frac{1}{3}}{\\ln{}0.87}=7.8888$$","state":"done","pos":31,"cell_type":"markdown","type":"cell","id":"9723e0","kernel":"sagemath"}
+{"type":"cell","id":"61a0aa","pos":32,"input":"Death occurred at approximately 4:11pm.","cell_type":"markdown"}
