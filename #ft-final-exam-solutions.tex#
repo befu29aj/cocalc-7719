@@ -20,25 +20,30 @@ does not earn you points.
 \textbf{There are TWO pages and EIGHT questions.} The maximum number of
 points is 88.
 
-({\frage}) Solve the logarithmic equation. Do not use a calculator for your
-calculation. It's OK to use a calculator to check your answer. [10]
+({\frage}) Solve the logarithmic equation. Do not use a calculator for your calculation. It's OK to use a calculator to check your answer. [10]
 
 \begin{equation}
   \label{eq:vuomebic}
   \log_{2}x-\log_{2}\frac{1}{4}=3\notag
 \end{equation}
 
-({\frage}) Solve the exponential equation. Do not use a calculator for your
-calculation. It's OK to use a calculator to check your answer. [10]
+The solution set is $S=\{2\}$.
+
+({\frage}) Solve the exponential equation. Do not use a calculator for your calculation. It's OK to use a calculator to check your answer. [10]
 
 \begin{equation}
   \label{eq:vaiphook}
   3^{x-1}=e^{3x}\notag
 \end{equation}
 
-({\frage}) Use Newton's method to find an $x$-intercept for
-$f(x)=e^{x}-10x$ (to a precision of five significant digits). Show all
-of your work and all intermediate steps! [12]
+The solution set is 
+
+\begin{equation}
+  \label{eq:raochien}
+S=\left\{\frac{\ln{}3}{\ln{}3-3}\right\}\mbox{ or }S=\{-0.57779\}
+\end{equation}
+
+({\frage}) Use Newton's method to find an $x$-intercept for $f(x)=e^{x}-10x$. Show all of your work and all intermediate steps! [12]
 
 ({\frage}) Find the area under the curve $y=(x^{2}-1)x$ between $x=-1$ and
 $x=0$. [12]
