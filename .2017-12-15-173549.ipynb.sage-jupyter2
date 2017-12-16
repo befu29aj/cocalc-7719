@@ -1,0 +1,11 @@
+{"type":"settings","kernel":"octave","backend_state":"running","trust":true,"kernel_state":"idle","kernel_usage":{"cpu":0,"memory":5361664}}
+{"type":"file","last_load":1513388154900}
+{"type":"cell","id":"4a0efb","pos":0,"input":"Solve the logarithmic equation. Do not use a calculator for your calculation. It's OK to use a calculator to check your answer. [10]","cell_type":"markdown"}
+{"type":"cell","id":"aba880","pos":1,"input":"$$\\log_{2}x-\\log_{2}\\frac{1}{4}=3$$","cell_type":"markdown"}
+{"exec_count":2,"input":"The solution set is $S=\\{2\\}$.","state":"done","pos":2,"cell_type":"markdown","type":"cell","id":"5a2284","kernel":"vpython"}
+{"type":"cell","id":"5688f9","pos":2.5,"input":"Solve the exponential equation. Do not use a calculator for your calculation. It's OK to use a calculator to check your answer. [10]","cell_type":"markdown"}
+{"exec_count":3,"input":"$$3^{x-1}=e^{3x}$$","state":"done","pos":2.75,"cell_type":"markdown","type":"cell","id":"53c105","kernel":"vpython"}
+{"type":"cell","id":"403ef9","pos":3.75,"input":"The solution set is $S=\\left\\{\\frac{\\ln{}3}{\\ln{}3-3}\\right\\}\\mbox{ or }S=\\{-0.57779\\}$.","cell_type":"markdown"}
+{"type":"cell","id":"bf848e","pos":4.75,"input":"Use Newton's method to find an $x$-intercept for $f(x)=e^{x}-10x$. Show all of your work and all intermediate steps! [12]","cell_type":"markdown"}
+{"output":{"0":{"text":"error: load: unable to find file pkg\n","name":"stdout"}},"exec_count":1,"start":1513388515385,"input":"load pkg specfun","state":"done","pos":5.75,"type":"cell","end":1513388515401,"id":"5d975b","kernel":"octave"}
+{"type":"cell","id":"6385db","pos":6.75,"input":""}
