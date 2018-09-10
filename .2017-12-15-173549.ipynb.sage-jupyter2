@@ -1,4 +1,4 @@
-{"type":"settings","kernel":"sagemath","backend_state":"running","trust":true,"kernel_state":"idle","kernel_usage":{"cpu":0,"memory":292573184}}
+{"type":"settings","kernel":"sagemath","backend_state":"running","trust":true,"kernel_state":"idle","kernel_usage":{"cpu":0,"memory":222855168}}
 {"type":"file","last_load":1513388154900}
 {"type":"cell","id":"4a0efb","pos":0,"input":"Solve the logarithmic equation. Do not use a calculator for your calculation. It's OK to use a calculator to check your answer. [10]","cell_type":"markdown"}
 {"type":"cell","id":"aba880","pos":1,"input":"$$\\log_{2}x-\\log_{2}\\frac{1}{4}=3$$","cell_type":"markdown"}

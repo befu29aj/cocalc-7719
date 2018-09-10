@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1512799708 "ft-final-exam.tex" "ft-final-exam.pdf" "ft-final-exam" 1512799708
+["pdflatex"] 1517157116 "ft-final-exam.tex" "ft-final-exam.pdf" "ft-final-exam" 1517157117
   "/etc/texmf/web2c/texmf.cnf" 1503313332 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -70,8 +70,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1506161354 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1506161382 3853855 dd36e9f5f71c93ae6ae957293c5815c4 ""
-  "ft-final-exam.aux" 1512799708 163 a1c35a4665914ee526b06722a5316fab ""
-  "ft-final-exam.tex" 1512759299 2331 529a0b08e0955ea9d66c916549df096f ""
+  "ft-final-exam.aux" 1517157117 163 a1c35a4665914ee526b06722a5316fab ""
+  "ft-final-exam.tex" 1513388737 2375 f15ec8b424121e65389ba9c887b98db8 ""
   "october.sty" 1511894218 2448 da00b392c73b77f12c18bf815a3b6fa9 ""
   (generated)
   "ft-final-exam.aux"
