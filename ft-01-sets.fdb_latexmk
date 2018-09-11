@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1536596131 "ft-01-sets.tex" "ft-01-sets.pdf" "ft-01-sets" 1536596133
+["pdflatex"] 1536687820 "ft-01-sets.tex" "ft-01-sets.pdf" "ft-01-sets" 1536687824
   "/etc/texmf/web2c/texmf.cnf" 1535314180 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
@@ -208,19 +208,19 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1535345801 2700761 ac0584cc9514ab21918550a6948c4ee2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1535345686 4127293 e426791f7d60570cbd329fe378e4215f ""
   "animals-01.png" 1511894218 30862 95ad937a490a1fe4037c7674e8ed29a3 ""
-  "ft-01-sets.aux" 1536596133 7098 db41447d90360b5af418b6ec1b8ce0b6 ""
-  "ft-01-sets.nav" 1536596133 2597 8d929ff01d0e977ef9f19206c5472659 ""
-  "ft-01-sets.out" 1536596132 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "ft-01-sets.aux" 1536687823 7098 db41447d90360b5af418b6ec1b8ce0b6 ""
+  "ft-01-sets.nav" 1536687823 2597 8d929ff01d0e977ef9f19206c5472659 ""
+  "ft-01-sets.out" 1536687822 0 d41d8cd98f00b204e9800998ecf8427e ""
   "ft-01-sets.tex" 1536596065 14291 febd76b067921aad1020e6ec86ca8ecc ""
   "function-mapping.png" 1511894218 7063 9ca5b10a028ced95b4cabbe9cb32639e ""
   "hippasusofmetapontum.jpg" 1511894218 72735 ef16eb33fbe3a920545b0218af2fa0ca ""
   "radicalized.png" 1511894218 159338 6edebff54cd57d533534a6e063ed3b2d ""
   "teachbeamer.sty" 1536596029 1601 01bd9e3b909851afa14ba795fc7147ef ""
   (generated)
+  "ft-01-sets.out"
+  "ft-01-sets.nav"
   "ft-01-sets.pdf"
   "ft-01-sets.log"
-  "ft-01-sets.nav"
-  "ft-01-sets.out"
   "ft-01-sets.aux"
   "ft-01-sets.toc"
   "ft-01-sets.snm"
