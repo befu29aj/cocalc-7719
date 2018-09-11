@@ -34,6 +34,7 @@
     "eq:queighaw"
     "eq:maipahlu"
     "eq:oucaedoo"
-    "eq:b1"))
+    "eq:jeireise"
+    "eq:eiheizie"))
  :latex)
 
