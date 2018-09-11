@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.8.27)  11 SEP 2018 17:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.8.27)  11 SEP 2018 17:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -754,11 +754,7 @@ Package: alltt 1997/06/16 v2.0g defines alltt environment
 \c@expls=\count164
 \c@exercise=\count165
 )
-(./ft-02-LinearEqs.aux
-
-LaTeX Warning: Label `eq:b1' multiply defined.
-
-)
+(./ft-02-LinearEqs.aux)
 \openout1 = `ft-02-LinearEqs.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -985,14 +981,10 @@ thkerncmss.
 
 ] [16
 
-]pdfTeX warning (ext4): destination with the same identifier (name{eq:b1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.281 \end{frame}
-                  [17
+] [17
 
-] [18
+]
+[18
 
 ]
 \tf@nav=\write6
@@ -1011,16 +1003,12 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 288.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 288.
 Package rerunfilecheck Info: File `ft-02-LinearEqs.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 20241 strings out of 492982
- 397323 string characters out of 6134896
- 471520 words of memory out of 5000000
- 23290 multiletter control sequences out of 15000+600000
+ 20243 strings out of 492982
+ 397359 string characters out of 6134896
+ 471506 words of memory out of 5000000
+ 23291 multiletter control sequences out of 15000+600000
  10684 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,15n,63p,806b,520s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1035,10 +1023,10 @@ ype1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/symbols/msbm10.pfb>
-Output written on ft-02-LinearEqs.pdf (18 pages, 116460 bytes).
+Output written on ft-02-LinearEqs.pdf (18 pages, 116507 bytes).
 PDF statistics:
- 213 PDF objects out of 1000 (max. 8388607)
- 168 compressed objects within 2 object streams
- 54 named destinations out of 1000 (max. 500000)
+ 215 PDF objects out of 1000 (max. 8388607)
+ 170 compressed objects within 2 object streams
+ 55 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
