@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1537896990 "ft-04-PercentMixtures.tex" "ft-04-PercentMixtures.pdf" "ft-04-PercentMixtures" 1537896991
+["pdflatex"] 1537897408 "ft-04-PercentMixtures.tex" "ft-04-PercentMixtures.pdf" "ft-04-PercentMixtures" 1537897409
   "/etc/texmf/web2c/texmf.cnf" 1535314180 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
@@ -199,16 +199,16 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1535345801 2700761 ac0584cc9514ab21918550a6948c4ee2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1535345686 4127293 e426791f7d60570cbd329fe378e4215f ""
-  "ft-04-PercentMixtures.aux" 1537896991 3606 d386be124f29508bf18c32c41e537afa ""
-  "ft-04-PercentMixtures.nav" 1537896991 2039 5a4196ea47006e239fc20568aaec1af6 ""
-  "ft-04-PercentMixtures.out" 1537896990 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "ft-04-PercentMixtures.tex" 1537896986 7107 7e317df03409ccacbd9d3eaac0f97010 ""
+  "ft-04-PercentMixtures.aux" 1537897409 3606 d386be124f29508bf18c32c41e537afa ""
+  "ft-04-PercentMixtures.nav" 1537897409 2039 5a4196ea47006e239fc20568aaec1af6 ""
+  "ft-04-PercentMixtures.out" 1537897408 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "ft-04-PercentMixtures.tex" 1537897407 7315 6cd0c789e0109ddc52f54ce5afe01e18 ""
   "teachbeamer.sty" 1536596029 1601 01bd9e3b909851afa14ba795fc7147ef ""
   (generated)
-  "ft-04-PercentMixtures.out"
-  "ft-04-PercentMixtures.aux"
-  "ft-04-PercentMixtures.nav"
   "ft-04-PercentMixtures.log"
+  "ft-04-PercentMixtures.nav"
+  "ft-04-PercentMixtures.aux"
   "ft-04-PercentMixtures.toc"
-  "ft-04-PercentMixtures.pdf"
   "ft-04-PercentMixtures.snm"
+  "ft-04-PercentMixtures.pdf"
+  "ft-04-PercentMixtures.out"
