@@ -1,0 +1,87 @@
+% ft-lab-01.tex
+
+\documentclass[11pt]{article}
+\usepackage{enumerate}
+\usepackage{syllogism} 
+\usepackage{october}
+\usepackage[table]{xcolor}
+
+\newcounter{aufg}
+\setcounter{aufg}{0}
+\newcommand{\aufgabe}[0]{\refstepcounter{aufg}\textbf{(\arabic{aufg})}}
+
+\begin{document}
+
+\textbf{Linear Equations}
+
+% Josef Laub: Lehrbuch der Mathematik, 1. Band, page 113
+{\aufgabe} Solve the following equation:
+\begin{equation}
+  \label{eq:iexaigee}
+  3x+7-(5-2x)=6x-2
+  % 4
+\end{equation}
+
+{\aufgabe} Solve the following equation:
+\begin{equation}
+  \label{eq:iexaigee}
+  7-3(2t-5)+5(9-3t)=5(1-7t)-2(4-3t)
+  % -35/4
+\end{equation}
+
+{\aufgabe} Solve the following equation:
+\begin{equation}
+  \label{eq:iexaigee}
+  (3x-5)^{2}-(2x+3)^{2}=5(x-2)(x+2)-2(14x+3)
+  % 3
+\end{equation}
+
+{\aufgabe} Solve the following equation:
+\begin{equation}
+  \label{eq:iexaigee}
+  (3y-2)(y-4)-(2y-3)^{2}+y(y-3)=7(y-1)-6(y+2)
+  % 3
+\end{equation}
+
+{\aufgabe} Solve the following equation:
+\begin{equation}
+  \label{eq:iexaigee}
+  99-10t(1-2t)=8t(t-1)^{2}-(2t-3)^{3}
+  % -2
+\end{equation}
+
+{\aufgabe} Solve the following equation:
+\begin{equation}
+  \label{eq:iexaigee}
+  \frac{3+5x}{8}-\frac{2(3x-1)}{4}=\frac{1+x}{2}+10
+  % -7
+\end{equation}
+
+{\aufgabe} Solve the following equation:
+\begin{equation}
+  \label{eq:iexaigee}
+  x+\frac{x+3}{2}-\frac{x}{4}-1=\frac{x+4}{8}
+  % 0
+\end{equation}
+
+{\aufgabe} Solve the following equation:
+\begin{equation}
+  \label{eq:iexaigee}
+  \frac{s}{2}+\frac{s}{3}-\frac{s}{4}=\frac{7s+5}{12}
+  % {}
+\end{equation}
+
+{\aufgabe} Solve the following equation:
+\begin{equation}
+  \label{eq:iexaigee}
+\frac{x}{x-1}+\frac{x+1}{x}=\frac{2x^{2}+3x-3}{x^{2}-x}
+\end{equation}
+
+{\aufgabe} Solve the following equation:
+\begin{equation}
+  \label{eq:iexaigee}
+\frac{1}{x(x-1)}-\frac{2}{(x+1)(x-1)}=\frac{1}{x(x+1)}
+\end{equation}
+
+\end{document}
+
