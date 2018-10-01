@@ -18,10 +18,13 @@
     "beamer10"
     "teachbeamer")
    (LaTeX-add-labels
+    "eq:kuliekar"
     "eq:ogheenoo"
     "eq:xeimuoch"
     "eq:raishaep"
     "eq:pahcahka"
+    "eq:zeeroola"
+    "eq:ieghaeve"
     "eq:ohxukiab"
     "eq:aivienai"
     "eq:kaohahae"
