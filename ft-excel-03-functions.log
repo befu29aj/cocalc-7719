@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.8.27)  1 OCT 2018 16:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.8.27)  1 OCT 2018 16:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -757,20 +757,20 @@ Package: alltt 1997/06/16 v2.0g defines alltt environment
 (./ft-excel-03-functions.aux)
 \openout1 = `ft-excel-03-functions.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -838,7 +838,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box60
-Package hyperref Info: Link coloring OFF on input line 13.
+Package hyperref Info: Link coloring OFF on input line 14.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -848,66 +848,66 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count172
 )
-LaTeX Info: Redefining \ref on input line 13.
-LaTeX Info: Redefining \pageref on input line 13.
-LaTeX Info: Redefining \nameref on input line 13.
+LaTeX Info: Redefining \ref on input line 14.
+LaTeX Info: Redefining \pageref on input line 14.
+LaTeX Info: Redefining \nameref on input line 14.
 
 (./ft-excel-03-functions.out) (./ft-excel-03-functions.out)
 \@outlinefile=\write5
 \openout5 = `ft-excel-03-functions.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 13.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 14.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 13.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 14.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 13.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 13.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 13.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 13.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 14.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 13.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 13.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 13.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 14.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 13.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 13.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 13.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 14.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 13.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 13.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 14.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 13.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 14.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 13.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 13.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 13.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 13.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 13.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 13.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 13.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 14.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 14.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
-3.
+4.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-13.
+14.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 13.
+ut line 14.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -935,223 +935,26 @@ Dictionary: translator-theorem-dictionary, Language: English
 ) (./ft-excel-03-functions.nav) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for U+msa on input line 29.
+LaTeX Font Info:    Try loading font information for U+msa on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 29.
+LaTeX Font Info:    Try loading font information for U+msb on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 29.
+line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-! Undefined control sequence.
-\beamer@doifinframe ...hline COUNT & \specialcell 
-                                                  [t]{Counts the number of c...
-l.29 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.29 \end{frame}
-                
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-! Extra }, or forgotten \endgroup.
-\beamer@doifinframe ...nge that\\contains numbers}
-                                                   \\ \hline INT & \specialc...
-l.29 \end{frame}
-                
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Undefined control sequence.
-\beamer@doifinframe ... \hline INT & \specialcell 
-                                                  [t]{Removes the decimal po...
-l.29 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.29 \end{frame}
-                
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-! Extra }, or forgotten \endgroup.
-\beamer@doifinframe ...g just the integer portion}
-                                                   \\ \hline ROUND & \specia...
-l.29 \end{frame}
-                
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Undefined control sequence.
-\beamer@doifinframe ...hline ROUND & \specialcell 
-                                                  [t]{Rounds a number to a s...
-l.29 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.29 \end{frame}
-                
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-! Extra }, or forgotten \endgroup.
-\beamer@doifinframe ... places or digit positions}
-                                                   \\ \hline \end {tabular} ...
-l.29 \end{frame}
-                
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-Overfull \hbox (70.33322pt too wide) in paragraph at lines 29--29
-[][]  
- []
-
 [2
 
-]
-! Undefined control sequence.
-\beamer@doifinframe ...\ \hline IF & \specialcell 
-                                                  [t]{Tests for a true or fa...
-l.41 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.41 \end{frame}
-                
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-! Extra }, or forgotten \endgroup.
-\beamer@doifinframe ...turns one value or another}
-                                                   \\ \hline NOW & Returns t...
-l.41 \end{frame}
-                
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Undefined control sequence.
-\beamer@doifinframe ...hline SUMIF & \specialcell 
-                                                  [t]{Calculates a sum from ...
-l.41 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.41 \end{frame}
-                
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-! Extra }, or forgotten \endgroup.
-\beamer@doifinframe ...ecause\\a condition is met}
-                                                   \\ \hline COUNTIF & \spec...
-l.41 \end{frame}
-                
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Undefined control sequence.
-\beamer@doifinframe ...ine COUNTIF & \specialcell 
-                                                  [t]{Counts the number of c...
-l.41 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.41 \end{frame}
-                
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-! Extra }, or forgotten \endgroup.
-\beamer@doifinframe ...nge\\that match a criteria}
-                                                   \\ \hline \end {tabular} ...
-l.41 \end{frame}
-                
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-Overfull \hbox (112.5364pt too wide) in paragraph at lines 41--41
-[][]  
- []
-
-[3
+] [3
 
 ] [4
 
@@ -1171,10 +974,10 @@ Overfull \hbox (112.5364pt too wide) in paragraph at lines 41--41
 <./e01.PNG, id=96, 770.88pt x 410.13225pt>
 File: ./e01.PNG Graphic file (type png)
 <use ./e01.PNG>
-Package pdftex.def Info: ./e01.PNG  used on input line 62.
+Package pdftex.def Info: ./e01.PNG  used on input line 63.
 (pdftex.def)             Requested size: 323.7674pt x 172.25436pt.
 
-Overfull \hbox (16.47752pt too wide) in paragraph at lines 62--62
+Overfull \hbox (16.47752pt too wide) in paragraph at lines 63--63
  [] 
  []
 
@@ -1184,10 +987,10 @@ Overfull \hbox (16.47752pt too wide) in paragraph at lines 62--62
 <./e02.PNG, id=105, 770.88pt x 410.13225pt>
 File: ./e02.PNG Graphic file (type png)
 <use ./e02.PNG>
-Package pdftex.def Info: ./e02.PNG  used on input line 69.
+Package pdftex.def Info: ./e02.PNG  used on input line 70.
 (pdftex.def)             Requested size: 323.7674pt x 172.25436pt.
 
-Overfull \hbox (16.47752pt too wide) in paragraph at lines 69--69
+Overfull \hbox (16.47752pt too wide) in paragraph at lines 70--70
  [] 
  []
 
@@ -1197,10 +1000,10 @@ Overfull \hbox (16.47752pt too wide) in paragraph at lines 69--69
 <./e03.PNG, id=113, 770.88pt x 410.13225pt>
 File: ./e03.PNG Graphic file (type png)
 <use ./e03.PNG>
-Package pdftex.def Info: ./e03.PNG  used on input line 76.
+Package pdftex.def Info: ./e03.PNG  used on input line 77.
 (pdftex.def)             Requested size: 323.7674pt x 172.25436pt.
 
-Overfull \hbox (16.47752pt too wide) in paragraph at lines 76--76
+Overfull \hbox (16.47752pt too wide) in paragraph at lines 77--77
  [] 
  []
 
@@ -1210,10 +1013,10 @@ Overfull \hbox (16.47752pt too wide) in paragraph at lines 76--76
 <./e04.PNG, id=122, 770.88pt x 410.13225pt>
 File: ./e04.PNG Graphic file (type png)
 <use ./e04.PNG>
-Package pdftex.def Info: ./e04.PNG  used on input line 83.
+Package pdftex.def Info: ./e04.PNG  used on input line 84.
 (pdftex.def)             Requested size: 323.7674pt x 172.25436pt.
 
-Overfull \hbox (16.47752pt too wide) in paragraph at lines 83--83
+Overfull \hbox (16.47752pt too wide) in paragraph at lines 84--84
  [] 
  []
 
@@ -1223,10 +1026,10 @@ Overfull \hbox (16.47752pt too wide) in paragraph at lines 83--83
 <./e05.PNG, id=130, 770.88pt x 410.13225pt>
 File: ./e05.PNG Graphic file (type png)
 <use ./e05.PNG>
-Package pdftex.def Info: ./e05.PNG  used on input line 90.
+Package pdftex.def Info: ./e05.PNG  used on input line 91.
 (pdftex.def)             Requested size: 323.7674pt x 172.25436pt.
 
-Overfull \hbox (16.47752pt too wide) in paragraph at lines 90--90
+Overfull \hbox (16.47752pt too wide) in paragraph at lines 91--91
  [] 
  []
 
@@ -1236,10 +1039,10 @@ Overfull \hbox (16.47752pt too wide) in paragraph at lines 90--90
 <./e06.PNG, id=138, 770.88pt x 410.13225pt>
 File: ./e06.PNG Graphic file (type png)
 <use ./e06.PNG>
-Package pdftex.def Info: ./e06.PNG  used on input line 97.
+Package pdftex.def Info: ./e06.PNG  used on input line 98.
 (pdftex.def)             Requested size: 323.7674pt x 172.25436pt.
 
-Overfull \hbox (16.47752pt too wide) in paragraph at lines 97--97
+Overfull \hbox (16.47752pt too wide) in paragraph at lines 98--98
  [] 
  []
 
@@ -1249,10 +1052,10 @@ Overfull \hbox (16.47752pt too wide) in paragraph at lines 97--97
 <./e07.PNG, id=146, 770.88pt x 410.13225pt>
 File: ./e07.PNG Graphic file (type png)
 <use ./e07.PNG>
-Package pdftex.def Info: ./e07.PNG  used on input line 104.
+Package pdftex.def Info: ./e07.PNG  used on input line 105.
 (pdftex.def)             Requested size: 323.7674pt x 172.25436pt.
 
-Overfull \hbox (16.47752pt too wide) in paragraph at lines 104--104
+Overfull \hbox (16.47752pt too wide) in paragraph at lines 105--105
  [] 
  []
 
@@ -1262,10 +1065,10 @@ Overfull \hbox (16.47752pt too wide) in paragraph at lines 104--104
 <./e08.PNG, id=154, 770.88pt x 410.13225pt>
 File: ./e08.PNG Graphic file (type png)
 <use ./e08.PNG>
-Package pdftex.def Info: ./e08.PNG  used on input line 111.
+Package pdftex.def Info: ./e08.PNG  used on input line 112.
 (pdftex.def)             Requested size: 323.7674pt x 172.25436pt.
 
-Overfull \hbox (16.47752pt too wide) in paragraph at lines 111--111
+Overfull \hbox (16.47752pt too wide) in paragraph at lines 112--112
  [] 
  []
 
@@ -1275,10 +1078,10 @@ Overfull \hbox (16.47752pt too wide) in paragraph at lines 111--111
 <./e09.PNG, id=162, 770.88pt x 410.13225pt>
 File: ./e09.PNG Graphic file (type png)
 <use ./e09.PNG>
-Package pdftex.def Info: ./e09.PNG  used on input line 118.
+Package pdftex.def Info: ./e09.PNG  used on input line 119.
 (pdftex.def)             Requested size: 323.7674pt x 172.25436pt.
 
-Overfull \hbox (16.47752pt too wide) in paragraph at lines 118--118
+Overfull \hbox (16.47752pt too wide) in paragraph at lines 119--119
  [] 
  []
 
@@ -1288,10 +1091,10 @@ Overfull \hbox (16.47752pt too wide) in paragraph at lines 118--118
 <./e10.PNG, id=172, 770.88pt x 410.13225pt>
 File: ./e10.PNG Graphic file (type png)
 <use ./e10.PNG>
-Package pdftex.def Info: ./e10.PNG  used on input line 125.
+Package pdftex.def Info: ./e10.PNG  used on input line 126.
 (pdftex.def)             Requested size: 323.7674pt x 172.25436pt.
 
-Overfull \hbox (16.47752pt too wide) in paragraph at lines 125--125
+Overfull \hbox (16.47752pt too wide) in paragraph at lines 126--126
  [] 
  []
 
@@ -1301,10 +1104,10 @@ Overfull \hbox (16.47752pt too wide) in paragraph at lines 125--125
 <./e11.PNG, id=180, 770.88pt x 410.13225pt>
 File: ./e11.PNG Graphic file (type png)
 <use ./e11.PNG>
-Package pdftex.def Info: ./e11.PNG  used on input line 132.
+Package pdftex.def Info: ./e11.PNG  used on input line 133.
 (pdftex.def)             Requested size: 323.7674pt x 172.25436pt.
 
-Overfull \hbox (16.47752pt too wide) in paragraph at lines 132--132
+Overfull \hbox (16.47752pt too wide) in paragraph at lines 133--133
  [] 
  []
 
@@ -1314,10 +1117,10 @@ Overfull \hbox (16.47752pt too wide) in paragraph at lines 132--132
 <./e12.PNG, id=188, 770.88pt x 410.13225pt>
 File: ./e12.PNG Graphic file (type png)
 <use ./e12.PNG>
-Package pdftex.def Info: ./e12.PNG  used on input line 139.
+Package pdftex.def Info: ./e12.PNG  used on input line 140.
 (pdftex.def)             Requested size: 323.7674pt x 172.25436pt.
 
-Overfull \hbox (16.47752pt too wide) in paragraph at lines 139--139
+Overfull \hbox (16.47752pt too wide) in paragraph at lines 140--140
  [] 
  []
 
@@ -1327,10 +1130,10 @@ Overfull \hbox (16.47752pt too wide) in paragraph at lines 139--139
 <./e13.PNG, id=196, 770.88pt x 410.13225pt>
 File: ./e13.PNG Graphic file (type png)
 <use ./e13.PNG>
-Package pdftex.def Info: ./e13.PNG  used on input line 146.
+Package pdftex.def Info: ./e13.PNG  used on input line 147.
 (pdftex.def)             Requested size: 323.7674pt x 172.25436pt.
 
-Overfull \hbox (16.47752pt too wide) in paragraph at lines 146--146
+Overfull \hbox (16.47752pt too wide) in paragraph at lines 147--147
  [] 
  []
 
@@ -1340,10 +1143,10 @@ Overfull \hbox (16.47752pt too wide) in paragraph at lines 146--146
 <./e14.PNG, id=204, 770.88pt x 410.13225pt>
 File: ./e14.PNG Graphic file (type png)
 <use ./e14.PNG>
-Package pdftex.def Info: ./e14.PNG  used on input line 153.
+Package pdftex.def Info: ./e14.PNG  used on input line 154.
 (pdftex.def)             Requested size: 323.7674pt x 172.25436pt.
 
-Overfull \hbox (16.47752pt too wide) in paragraph at lines 153--153
+Overfull \hbox (16.47752pt too wide) in paragraph at lines 154--154
  [] 
  []
 
@@ -1361,19 +1164,19 @@ Overfull \hbox (16.47752pt too wide) in paragraph at lines 153--153
 \tf@snm=\write8
 \openout8 = `ft-excel-03-functions.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 160.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 160.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 161.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 161.
  (./ft-excel-03-functions.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 160.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 160.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 161.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 161.
 Package rerunfilecheck Info: File `ft-excel-03-functions.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 20330 strings out of 492982
- 399016 string characters out of 6134896
- 472110 words of memory out of 5000000
- 23366 multiletter control sequences out of 15000+600000
+ 20331 strings out of 492982
+ 399028 string characters out of 6134896
+ 472137 words of memory out of 5000000
+ 23367 multiletter control sequences out of 15000+600000
  10852 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,15n,63p,812b,679s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1382,7 +1185,7 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on ft-excel-03-functions.pdf (25 pages, 1227587 bytes).
+Output written on ft-excel-03-functions.pdf (25 pages, 1227324 bytes).
 PDF statistics:
  249 PDF objects out of 1000 (max. 8388607)
  173 compressed objects within 2 object streams

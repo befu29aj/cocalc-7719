@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1538410361 "ft-excel-03-functions.tex" "ft-excel-03-functions.pdf" "ft-excel-03-functions" 1538410364
+["pdflatex"] 1538410620 "ft-excel-03-functions.tex" "ft-excel-03-functions.pdf" "ft-excel-03-functions" 1538410623
   "/etc/texmf/web2c/texmf.cnf" 1535314180 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
@@ -212,16 +212,16 @@
   "e12.PNG" 1538410354 103472 5e4f039720c000dfa9919a7d7169f9f4 ""
   "e13.PNG" 1538410354 104606 f6a2b90af4f2d6d1023400215ddbc0b2 ""
   "e14.PNG" 1538410354 101704 06e640fdb25ce505ffea4e965d9fb426 ""
-  "ft-excel-03-functions.aux" 1538410363 3404 54cc6b65e2f7552ff196a1f0eca3995d ""
-  "ft-excel-03-functions.nav" 1538410363 1968 4dee3a2045f7f6e82908546330227180 ""
-  "ft-excel-03-functions.out" 1538410361 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "ft-excel-03-functions.tex" 1538410354 6631 98f34ecde136363f329c8b9a584feffd ""
+  "ft-excel-03-functions.aux" 1538410623 3404 54cc6b65e2f7552ff196a1f0eca3995d ""
+  "ft-excel-03-functions.nav" 1538410623 1968 4dee3a2045f7f6e82908546330227180 ""
+  "ft-excel-03-functions.out" 1538410621 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "ft-excel-03-functions.tex" 1538410620 6703 537fb3503be218d10d8f7be1182d19d0 ""
   "teachbeamer.sty" 1536596029 1601 01bd9e3b909851afa14ba795fc7147ef ""
   (generated)
-  "ft-excel-03-functions.nav"
+  "ft-excel-03-functions.log"
   "ft-excel-03-functions.out"
   "ft-excel-03-functions.aux"
-  "ft-excel-03-functions.toc"
-  "ft-excel-03-functions.log"
   "ft-excel-03-functions.snm"
   "ft-excel-03-functions.pdf"
+  "ft-excel-03-functions.toc"
+  "ft-excel-03-functions.nav"
