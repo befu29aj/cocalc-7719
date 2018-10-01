@@ -15,6 +15,8 @@
     "latex2e"
     "beamer"
     "beamer10"
-    "teachbeamer"))
+    "teachbeamer")
+   (TeX-add-symbols
+    '("specialcell" ["argument"] 1)))
  :latex)
 
