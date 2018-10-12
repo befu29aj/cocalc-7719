@@ -70,7 +70,11 @@ $aufgabe[2]=sub {
 };
 
 $aufgabe[3]=sub {
-    print termtest "The formula to work out the total resistance \$R_{T}\$ given two resistors \$R_{1}\$ and \$R_{2}\$ in parallel as in the diagram is\n\\begin{equation}\n\\label{eq:tiexueri}\n\\frac{1}{R_{T}}=\\frac{1}{R_{1}}+\\frac{1}{R_{2}}\\notag\n\\end{equation}\n\n\\begin{figure}[ht]\n\\includegraphics[scale=.7]{./diagrams/resist$v004[$i1].png}\n\\end{figure}\n\nThe total resistance has been measured at $v005[$i] ohms, and one of the resistors is known to be $v006[$i] ohms more than the other. Ohm is the unit for resistance, and only a positive number of ohms makes sense. Calculate \$R_{1}\$.\n";
+    print termtest "The formula to work out the total resistance \$R_{T}\$ given two resistors \$R_{1}\$ and \$R_{2}\$ in parallel as in the diagram is\n\\begin{equation}\n\\label{eq:tiexueri}\n\\frac{1}{R_{T}}=\\frac{1}{R_{1}}+\\frac{1}{R_{2}}\\notag\n\\end{equation}\n\n\\begin{figure}[ht]\n\\includegraphics[scale=.7]{./diagrams/resist$v004[$i1].png}\n\\end{figure}\n\nThe total resistance has been measured at $v005[$i1] ohms, and one of the resistors is known to be $v006[$i1] ohms more than the other. Ohm is the unit for resistance, and only a positive number of ohms makes sense. Calculate \$R_{1}\$.\n";
+};
+
+$aufgabe[4]=sub {
+    print termtest "Two train stations \$A\$ and \$B\$ are $v007[$i1] kilometres apart. The first train leaves \$A\$ at \v008[$i1] going towards \$B\$. The second train leaves \$B\$ at \v009[$i1] going towards \$A\$. The velocity of the first train is \v010[$i1] less than the velocity of the second train. At \v011[$i1] the trains are still \v012[$i1] kilometres apart. Calculate the speed of the two trains and when they will meet. Use \$v\\cdot{}t=s\$ (velocity times time equals distance).\n";
 };
 
 for ($y2=0;$y2<=$#aufgabe;++$y2)
@@ -97,12 +101,12 @@ $v003[0]="Solution X is a 27 percent salt solution and Solution Y is a 20 percen
 $v004[0]="";
 $v005[0]="3";
 $v006[0]="8";
-$v007[0]="";
-$v008[0]="";
-$v009[0]="";
-$v010[0]="";
-$v011[0]="";
-$v012[0]="";
+$v007[0]="310";
+$v008[0]="6:30am";
+$v009[0]="7:20am";
+$v010[0]="10";
+$v011[0]="8:50am";
+$v012[0]="65";
 $v013[0]="";
 $v014[0]="";
 $v015[0]="";
@@ -116,12 +120,12 @@ $v003[1]="Suppose a car can run on ethanol and gas and you have a 15 gallons tan
 $v004[1]="1";
 $v005[1]="2";
 $v006[1]="3";
-$v007[1]="";
-$v008[1]="";
-$v009[1]="";
-$v010[1]="";
-$v011[1]="";
-$v012[1]="";
+$v007[1]="420";
+$v008[1]="3:00pm";
+$v009[1]="3:20pm";
+$v010[1]="5";
+$v011[1]="5:24pm";
+$v012[1]="30";
 $v013[1]="";
 $v014[1]="";
 $v015[1]="";
