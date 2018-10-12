@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1539365678 "ft-termtest-A2.tex" "ft-termtest-A2.pdf" "ft-termtest-A2" 1539365678
+["pdflatex"] 1539365833 "ft-termtest-A2.tex" "ft-termtest-A2.pdf" "ft-termtest-A2" 1539365834
   "/etc/texmf/web2c/texmf.cnf" 1535314180 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
@@ -75,10 +75,10 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1535345801 2700761 ac0584cc9514ab21918550a6948c4ee2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1535345686 4127293 e426791f7d60570cbd329fe378e4215f ""
   "diagrams/resist1.png" 1539363014 4157 32719728399fa720afdc43203fa17282 ""
-  "ft-termtest-A2.aux" 1539365678 70 907f799592f00417d8e86c22c7f592b4 ""
-  "ft-termtest-A2.tex" 1539365657 1946 a6cae2e1aad278289280cd678726feaf ""
+  "ft-termtest-A2.aux" 1539365834 70 907f799592f00417d8e86c22c7f592b4 ""
+  "ft-termtest-A2.tex" 1539365831 1932 dff4bd52c9c9f509059d05e77c4868b3 ""
   "october.sty" 1511894218 2448 da00b392c73b77f12c18bf815a3b6fa9 ""
   (generated)
-  "ft-termtest-A2.aux"
   "ft-termtest-A2.log"
+  "ft-termtest-A2.aux"
   "ft-termtest-A2.pdf"
