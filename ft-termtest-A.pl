@@ -1,4 +1,7 @@
 # gc-termtest-C.pl
+# run this on cocalc
+# git pull && latexmk -pdf -f -g -bibtex -synctex=1 -interaction=nonstopmode 'ft-termtest-A1.tex' && latexmk -pdf -f -g -bibtex -synctex=1 -interaction=nonstopmode 'ft-termtest-A2.tex' && git add . && git commit -am "ft-termtest-A2.tex cocalc" && git push
+
 use List::Util 'shuffle';
 
 # round(runif(50,999999.5,9999999.5),0)
@@ -74,7 +77,7 @@ $aufgabe[3]=sub {
 };
 
 $aufgabe[4]=sub {
-    print termtest "Two train stations \$A\$ and \$B\$ are $v007[$i1] kilometres apart. The first train leaves \$A\$ at \v008[$i1] going towards \$B\$. The second train leaves \$B\$ at \v009[$i1] going towards \$A\$. The velocity of the first train is \v010[$i1] less than the velocity of the second train. At \v011[$i1] the trains are still \v012[$i1] kilometres apart. Calculate the speed of the two trains and when they will meet. Use \$v\\cdot{}t=s\$ (velocity times time equals distance).\n";
+    print termtest "Two train stations \$A\$ and \$B\$ are $v007[$i1] kilometres apart. The first train leaves \$A\$ at $v008[$i1] going towards \$B\$. The second train leaves \$B\$ at $v009[$i1] going towards \$A\$. The velocity of the first train is $v010[$i1] less than the velocity of the second train. At $v011[$i1] the trains are still $v012[$i1] kilometres apart. Calculate the speed of the two trains and when they will meet. Use \$v\\cdot{}t=s\$ (velocity times time equals distance).\n";
 };
 
 for ($y2=0;$y2<=$#aufgabe;++$y2)
