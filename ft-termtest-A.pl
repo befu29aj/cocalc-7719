@@ -70,7 +70,7 @@ $aufgabe[2]=sub {
 };
 
 $aufgabe[3]=sub {
-    print termtest "The formula to work out the total resistance \$R_{T}\$ given two resistors \$R_{1}\$ and \$R_{2}\$ in parallel as in the diagram is\n\\begin{equation}\n\\label{eq:tiexueri}\n\\frac{1}{R_{T}}=\\frac{1}{R_{1}}+\\frac{1}{R_{2}}\\notag\n\\end{equation}\n\n\\begin{figure}[ht]\n\\includegraphics[scale=.7]{./resist$v004[$i1].png}\n\\end{figure}\n\nThe total resistance has been measured at $v005[$i] ohms, and one of the resistors is known to be $v006[$i] ohms more than the other. Ohm is the unit for resistance, and only a positive number of ohms makes sense. Calculate \$R_{1}\$.\n";
+    print termtest "The formula to work out the total resistance \$R_{T}\$ given two resistors \$R_{1}\$ and \$R_{2}\$ in parallel as in the diagram is\n\\begin{equation}\n\\label{eq:tiexueri}\n\\frac{1}{R_{T}}=\\frac{1}{R_{1}}+\\frac{1}{R_{2}}\\notag\n\\end{equation}\n\n\\begin{figure}[ht]\n\\includegraphics[scale=.7]{./diagrams/resist$v004[$i1].png}\n\\end{figure}\n\nThe total resistance has been measured at $v005[$i] ohms, and one of the resistors is known to be $v006[$i] ohms more than the other. Ohm is the unit for resistance, and only a positive number of ohms makes sense. Calculate \$R_{1}\$.\n";
 };
 
 for ($y2=0;$y2<=$#aufgabe;++$y2)
