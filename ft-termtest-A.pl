@@ -77,7 +77,11 @@ $aufgabe[3]=sub {
 };
 
 $aufgabe[4]=sub {
-    print termtest "Two train stations \$A\$ and \$B\$ are $v007[$i1] kilometres apart. The first train leaves \$A\$ at $v008[$i1] going towards \$B\$. The second train leaves \$B\$ at $v009[$i1] going towards \$A\$. The velocity of the first train is $v010[$i1] less than the velocity of the second train. At $v011[$i1] the trains are still $v012[$i1] kilometres apart. Calculate the speed of the two trains and when they will meet. Use \$v\\cdot{}t=s\$ (velocity times time equals distance).\n";
+    print termtest "Two train stations \$A\$ and \$B\$ are $v007[$i1] kilometres apart. The first train leaves \$A\$ at $v008[$i1] going towards \$B\$. The second train leaves \$B\$ at $v009[$i1] going towards \$A\$. The velocity of the first train is $v010[$i1] kilometres per hour less than the velocity of the second train. At $v011[$i1] the trains are still $v012[$i1] kilometres apart. Calculate the speed of the two trains and when they will meet. Use \$v\\cdot{}t=s\$ (velocity times time equals distance).\n";
+};
+
+$aufgabe[5]=sub {
+    print termtest "Solve the equation.\n\n\\begin{equation}\n\\label{eq:oopeecha}\n$v013[$i1]\\notag\n\\end{equation}\n";
 };
 
 for ($y2=0;$y2<=$#aufgabe;++$y2)
@@ -110,7 +114,7 @@ $v009[0]="7:20am";
 $v010[0]="10";
 $v011[0]="8:50am";
 $v012[0]="65";
-$v013[0]="";
+$v013[0]="(2x-3)^{2}+(2x-4)^{2}=4(x-1)^{2}";
 $v014[0]="";
 $v015[0]="";
 $v016[0]="";
@@ -129,7 +133,7 @@ $v009[1]="3:20pm";
 $v010[1]="5";
 $v011[1]="5:24pm";
 $v012[1]="30";
-$v013[1]="";
+$v013[1]="\\frac{x-2}{x+2}=\\frac{2x-7}{3x-8}";
 $v014[1]="";
 $v015[1]="";
 $v016[1]="";
