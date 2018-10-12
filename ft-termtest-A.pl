@@ -150,12 +150,11 @@ print termtest "\\usepackage[table]{xcolor}\n";
 print termtest "\\pagestyle{empty}\n\n";
 print termtest "\\newcounter{aufg}\n";
 print termtest "\\setcounter{aufg}{0}\n";
-print termtest "\\newcommand{\\aufgabe}[1]{\\refstepcounter{aufg}\\textbf{(\\arabic{aufg})}[#1 points]}\n\n";
+print termtest "\\newcommand{\\aufgabe}[1]{\\refstepcounter{aufg}\\textbf{(\\arabic{aufg})} [#1 points]}\n\n";
 
 print termtest "\\begin{document}\n\n";
 
-print termtest "\\textbf{Term Test C version $vn[$i1]}\n\n";
-print termtest "Note that for \$f(x)=\\tan{}x\$ the derivative is \$f'(x)=\\sec^{2}x\$.\n\n";
+print termtest "\\textbf{Term Test A version $vn[$i1]}\n\n";
 
 @bufgabe=shuffle(@aufgabe);
 
