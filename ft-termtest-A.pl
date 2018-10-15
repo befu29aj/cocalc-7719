@@ -77,7 +77,7 @@ $aufgabe[3]=sub {
 };
 
 $aufgabe[4]=sub {
-    print termtest "Two train stations \$A\$ and \$B\$ are $v007[$i1] kilometres apart. The first train leaves \$A\$ at $v008[$i1] going towards \$B\$. The second train leaves \$B\$ at $v009[$i1] going towards \$A\$. The velocity of the first train is $v010[$i1] kilometres per hour less than the velocity of the second train. At $v011[$i1] the trains are still $v012[$i1] kilometres apart. Calculate the speed of the two trains and when they will meet. Use \$v\\cdot{}t=s\$ (velocity times time equals distance).\n";
+    print termtest "NOTE TO SELF: version 2 doesn't get a natural number as an answer to the second part of the question. If you change the distance left in the middle you can achieve this easily. Two train stations \$A\$ and \$B\$ are $v007[$i1] kilometres apart. The first train leaves \$A\$ at $v008[$i1] going towards \$B\$. The second train leaves \$B\$ at $v009[$i1] going towards \$A\$. The velocity of the first train is $v010[$i1] kilometres per hour less than the velocity of the second train. At $v011[$i1] the trains are still $v012[$i1] kilometres apart. Calculate the speed of the two trains and when they will meet. Use \$v\\cdot{}t=s\$ (velocity times time equals distance).\n";
 };
 
 $aufgabe[5]=sub {
