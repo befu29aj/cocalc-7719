@@ -17,15 +17,11 @@
     '("aufgabe" 0))
    (LaTeX-add-labels
     "eq:zaiquahu"
-    "eq:uobeigha"
-    "eq:neeshaej"
-    "eq:taejahbo"
     "eq:woongais"
     "eq:eajaekei"
     "eq:ohchoewi"
     "eq:ohzeiphi"
     "eq:puareipo"
-    "eq:nuocaeph"
     "eq:zahshaum"
     "eq:ooreyonu"
     "eq:rohkiine"
