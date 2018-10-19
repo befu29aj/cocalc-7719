@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1539975901 "ft-lab-03.tex" "ft-lab-03.pdf" "ft-lab-03" 1539975902
+["pdflatex"] 1539975935 "ft-lab-03.tex" "ft-lab-03.pdf" "ft-lab-03" 1539975935
   "/etc/texmf/web2c/texmf.cnf" 1535314180 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
@@ -77,10 +77,10 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1535345801 2700761 ac0584cc9514ab21918550a6948c4ee2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1539447059 4126370 04448162a4da151233589cc4b45c1165 ""
-  "ft-lab-03.aux" 1539975902 1215 a13ec72b3fe42f6924c07b6c45d23724 ""
-  "ft-lab-03.tex" 1539975899 5388 180168355d7bd38a4a56177af3139b50 ""
+  "ft-lab-03.aux" 1539975935 1215 a13ec72b3fe42f6924c07b6c45d23724 ""
+  "ft-lab-03.tex" 1539975934 5436 286db73d7fb1ad4e2488c6a40093f17a ""
   "october.sty" 1511894218 2448 da00b392c73b77f12c18bf815a3b6fa9 ""
   (generated)
+  "ft-lab-03.aux"
   "ft-lab-03.log"
   "ft-lab-03.pdf"
-  "ft-lab-03.aux"
