@@ -1,71 +1,14 @@
 % ft-09-BasicDiff.tex
 
 \documentclass[xcolor=dvipsnames]{beamer}
-
-\usepackage{cancel}
-\renewcommand{\CancelColor}{\color{red}}
-\usepackage{graphicx}
-\usepackage{wrapfig}
-\usepackage{colortbl}
-\usepackage{color}
-\usepackage{alltt}
-\renewcommand*{\thefootnote}{\fnsymbol{footnote}}
-\definecolor{myblue}{rgb}{0.8,0.85,1}
-
-\mode<presentation>
-{
-  \usetheme{Warsaw}
-  \setbeamercovered{transparent}
-}
-% \usecolortheme[named=OliveGreen]{structure}
-\setbeamertemplate{navigation symbols}{} 
-\setbeamertemplate{blocks}[rounded][shadow=true] 
-
-% this is for overlaying math symbols, see https://tex.stackexchange.com/questions/12895/overlay-symbol-with-another
-\def\qeq{\mathrel{%
-    \mathchoice{\QEQ}{\QEQ}{\scriptsize\QEQ}{\tiny\QEQ}%
-}}
-\def\QEQ{{%
-    \setbox0\hbox{$\longrightarrow$}%
-    \rlap{\hbox to \wd0{\hss/\hss}}\box0
-  }}
-
-\newcounter{expls}
-\setcounter{expls}{0}
-\newcommand{\beispiel}[1]{\refstepcounter{expls}\textbf{Example \arabic{expls}: #1.}}
-
-\newcounter{exercise}
-\setcounter{exercise}{0}
-\newcommand{\ubung}[0]{\refstepcounter{exercise}\textbf{Exercise \arabic{exercise}: }}
-
-\newif\ifBCITCourse
-\BCITCoursetrue
-% \BCITCoursefalse
-\newif\ifWhichCourse
-\WhichCoursetrue
-% \WhichCoursefalse
-\ifBCITCourse
-\ifWhichCourse
-\newcommand{\CourseName}{Technical Mathematics for Food Technology}
-\newcommand{\CourseNumber}{MATH 1441}
-\newcommand{\CourseInst}{BCIT}
-\else
-\newcommand{\CourseName}{Technical Mathematics for Geomatics}
-\newcommand{\CourseNumber}{MATH 1511}
-\newcommand{\CourseInst}{BCIT}
-\fi
-\else
-\newcommand{\CourseName}{Philosophy and Literature}
-\newcommand{\CourseNumber}{PHIL 375}
-\newcommand{\CourseInst}{UBC}
-\fi
+\usepackage{teachbeamer}
 
 \title{Basic Rules of Differentiation}
 \subtitle{{\CourseNumber}, BCIT}
 
 \author{\CourseName}
 
-\date{October 18, 2017}
+\date{October 25, 2018}
 
 \begin{document}
 
@@ -101,7 +44,7 @@ functions on the real number line:
 The \alert{graph of a function} $f$ is the set of all points $(x,y)$
 in the $xy$-plane such that $x$ is in the domain of $f$ and $y=f(x)$.
   \begin{figure}[h]
-    \includegraphics[scale=1]{./fgraph-02.png}
+    \includegraphics[scale=1]{./diagrams/fgraph-02.png}
   \end{figure}
 \end{frame}
 
@@ -113,7 +56,7 @@ $y^{2}=x$. A curve in the $xy$-plane is the graph of a function
 $y=f(x)$ if and only if each vertical line intersects it in at most
 one point.
   \begin{figure}[h]
-    \includegraphics[scale=1]{./fgraph-03.png}
+    \includegraphics[scale=1]{./diagrams/fgraph-03.png}
   \end{figure}
 \end{frame}
 
@@ -125,28 +68,28 @@ In the next four slides, determine which graphs correspond to a function.
 \begin{frame}
   \frametitle{Vertical Line Test Exercise I}
   \begin{figure}[h]
-    \includegraphics[scale=1]{./vertical-01.png}
+    \includegraphics[scale=1]{./diagrams/vertical-01.png}
   \end{figure}
 \end{frame}
 
 \begin{frame}
   \frametitle{Vertical Line Test Exercise II}
   \begin{figure}[h]
-    \includegraphics[scale=1]{./vertical-02.png}
+    \includegraphics[scale=1]{./diagrams/vertical-02.png}
   \end{figure}
 \end{frame}
 
 \begin{frame}
   \frametitle{Vertical Line Test Exercise III}
   \begin{figure}[h]
-    \includegraphics[scale=1]{./vertical-03.png}
+    \includegraphics[scale=1]{./diagrams/vertical-03.png}
   \end{figure}
 \end{frame}
 
 \begin{frame}
   \frametitle{Vertical Line Test Exercise IV}
   \begin{figure}[h]
-    \includegraphics[scale=1]{./vertical-04.png}
+    \includegraphics[scale=1]{./diagrams/vertical-04.png}
   \end{figure}
 \end{frame}
 
@@ -299,14 +242,14 @@ Consider the following interesting cases:
 \begin{frame}
   \frametitle{No Limit Examples I}
   \begin{figure}[h]
-    \includegraphics[scale=.9]{./limita.png}
+    \includegraphics[scale=.9]{./diagrams/limita.png}
   \end{figure}
 \end{frame}
 
 \begin{frame}
   \frametitle{No Limit Example II}
   \begin{figure}[h]
-    \includegraphics[scale=.5]{./sineoneoverx.png}
+    \includegraphics[scale=.5]{./diagrams/sineoneoverx.png}
   \end{figure}
 \end{frame}
 
@@ -385,7 +328,7 @@ correct limit.
 \begin{frame}
   \frametitle{Another Indeterminate Form Example II}
   \begin{figure}[h]
-    \includegraphics[scale=.5]{./indeterminate.png}
+    \includegraphics[scale=.5]{./diagrams/indeterminate.png}
   \end{figure}
 \end{frame}
 
@@ -424,7 +367,7 @@ or
 \begin{frame}
   \frametitle{Limits at Infinity III}
   \begin{figure}[h]
-    \includegraphics[scale=.5]{./lai.png}
+    \includegraphics[scale=.5]{./diagrams/lai.png}
   \end{figure}
 \end{frame}
 
@@ -609,7 +552,7 @@ faster and faster?
 designed. The initial motivation for calculus was to find the slope of
 a tangent on a curve and the area of a region bounded by a curve.
   \begin{figure}[h]
-    \includegraphics[scale=.35]{./regiontangent.png}
+    \includegraphics[scale=.35]{./diagrams/regiontangent.png}
   \end{figure}
 \end{frame}
 
@@ -711,7 +654,7 @@ sometimes also called the \alert{rate of change}.
   \lim_{h\rightarrow{}0}\frac{f(x+h)-f(x)}{h}
 \end{equation}
   \begin{figure}[h]
-    \includegraphics[scale=.7]{./tangent1.png}
+    \includegraphics[scale=.7]{./diagrams/tangent1.png}
   \end{figure}
 \end{frame}
 
@@ -724,7 +667,7 @@ sometimes also called the \alert{rate of change}.
   \lim_{h\rightarrow{}0}\frac{f(x+h)-f(x)}{h}
 \end{equation}
   \begin{figure}[h]
-    \includegraphics[scale=.7]{./tangent2.png}
+    \includegraphics[scale=.7]{./diagrams/tangent2.png}
   \end{figure}
 \end{frame}
 
@@ -742,14 +685,14 @@ The domain of $f'$ is the set of all $x$ where the limit exists.
 \begin{frame}
   \frametitle{Derivatives Diagram I}
   \begin{figure}[h]
-    \includegraphics[scale=1.8]{./derivs2.png}
+    \includegraphics[scale=1.8]{./diagrams/derivs2.png}
   \end{figure}
 \end{frame}
 
 \begin{frame}
   \frametitle{Derivatives Diagram II}
   \begin{figure}[h]
-    \includegraphics[scale=.6]{./derivs1.png}
+    \includegraphics[scale=.6]{./diagrams/derivs1.png}
   \end{figure}
 \end{frame}
 

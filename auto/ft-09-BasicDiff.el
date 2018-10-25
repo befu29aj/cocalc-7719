@@ -1,0 +1,102 @@
+(TeX-add-style-hook
+ "ft-09-BasicDiff"
+ (lambda ()
+   (TeX-add-to-alist 'LaTeX-provided-class-options
+                     '(("beamer" "xcolor=dvipsnames")))
+   (add-to-list 'LaTeX-verbatim-environments-local "alltt")
+   (add-to-list 'LaTeX-verbatim-environments-local "semiverbatim")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
+   (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
+   (TeX-run-style-hooks
+    "latex2e"
+    "beamer"
+    "beamer10"
+    "teachbeamer")
+   (LaTeX-add-labels
+    "eq:sijoomai"
+    "eq:vooghahk"
+    "eq:zaekohxi"
+    "eq:maichong"
+    "eq:pieshouz"
+    "eq:queebeih"
+    "eq:thaochao"
+    "eq:aphiepae"
+    "eq:quiekong"
+    "eq:vaineiro"
+    "eq:iicheeci"
+    "eq:dooshool"
+    "eq:eengemia"
+    "eq:iepeacha"
+    "eq:johvoohu"
+    "eq:eeyootoh"
+    "eq:kohzahwa"
+    "eq:aekaqued"
+    "eq:ahkeigae"
+    "eq:eemoopha"
+    "eq:queebaet"
+    "eq:xoquaenu"
+    "eq:othahzau"
+    "eq:ayaivoma"
+    "eq:xierigai"
+    "eq:ciabohmi"
+    "eq:xetieshe"
+    "eq:wingeisa"
+    "eq:ahxaibah"
+    "eq:faingiej"
+    "eq:kaimeeyo"
+    "eq:raephoot"
+    "eq:yaingiaj"
+    "eq:airoovae"
+    "eq:ahrahnei"
+    "eq:ikiegeip"
+    "eq:deegiech"
+    "eq:shuungae"
+    "eq:ailuiquo"
+    "eq:oudiolee"
+    "eq:uheafaix"
+    "eq:azeeghee"
+    "eq:haeceema"
+    "eq:aogedish"
+    "eq:xaebiaph"
+    "eq:ixahngoo"
+    "eq:etheshoh"
+    "eq:chahgaew"
+    "eq:oofeegae"
+    "eq:yupeethi"
+    "eq:reibaize"
+    "eq:aumiepha"
+    "eq:pupibahk"
+    "eq:einohkie"
+    "eq:phaedais"
+    "eq:toochoir"
+    "eq:geeshaiz"
+    "eq:leezaach"
+    "eq:ohgheith"
+    "eq:aixohshi"
+    "eq:oongahgh"
+    "eq:cheevooj"
+    "eq:faiseeth"
+    "eq:lohfasoe"
+    "eq:ligoovah"
+    "eq:ahnieluz"
+    "eq:oomaenee"
+    "eq:eeyeejeu"
+    "eq:wuuxaise"
+    "eq:thahchae"
+    "eq:quaipahn"
+    "eq:mitahrei"
+    "eq:oubajaez"
+    "eq:heyanaci"
+    "eq:bahgosio"
+    "eq:eceishie"
+    "eq:ohzahcer"
+    "eq:mothoofi"
+    "eq:aiquooyo"
+    "eq:achaingo"))
+ :latex)
+
