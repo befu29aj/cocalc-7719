@@ -68,11 +68,11 @@ exponential growth rate of 1.$v001[$i1]\% per year?";
 };
 
 $aufgabe[1]=sub {
-    print termtest "Suppose we are preparing a lovely \\emph{Canard {\\`a} l'Orange} (roast duck with orange sauce). We first take our duck out of a $v002[$i1]\$^{\\circ}\$F refrigerator and place it in a $v003[$i1]\$^{\\circ}$F oven to roast. After $v005[$i1] minutes the internal temperature is $v004[$i1]\$^{\\circ}\$F. If we want to roast the duck until just under well-done (about 170\$^{\\circ}\$F internally), when will it be ready?";
+    print termtest "Suppose we are preparing a lovely \\emph{Canard {\\`a} l'Orange} (roast duck with orange sauce). We first take our duck out of a $v002[$i1]\$^{\\circ}\$F refrigerator and place it in a $v003[$i1]\$^{\\circ}\$F oven to roast. After $v005[$i1] minutes the internal temperature is $v004[$i1]\$^{\\circ}\$F. If we want to roast the duck until just under well-done (about 170\$^{\\circ}\$F internally), when will it be ready?";
 };
 
 $aufgabe[2]=sub {
-    print termtest "Evaluate without a calculator. Show all of your work.\n\\begin{equation}\\log_{4}\\left(2\\cdot\\sqrt{32}\\right)+\\log_{27}\\sqrt{3}\\notag\n\end{equation}";
+    print termtest "Evaluate without a calculator. Show all of your work.\n\\begin{equation}\\log_{4}\\left(2\\cdot\\sqrt{32}\\right)+\\log_{27}\\sqrt{3}\\notag\n\\end{equation}";
 };
 
 $aufgabe[3]=sub {
@@ -192,7 +192,7 @@ for ($i2=0;$i2<=$#aufgabe;++$i2)
 {
     print termtest "\\aufgabe{$p[$i2]} ";
     $bufgabe[$i2]->();
-    print termtest "\n";
+    print termtest "\n\n";
 }
 
 print termtest "\\end{document}\n";
