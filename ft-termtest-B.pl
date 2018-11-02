@@ -63,7 +63,40 @@ use List::Util 'shuffle';
 srand($seed[1]);
 
 $aufgabe[0]=sub {
-    print termtest "";
+    print termtest "How long will it take the world population to double at an
+exponential growth rate of 1.$v001[$i1]\% per year?";
+};
+
+$aufgabe[1]=sub {
+    print termtest "Suppose we are preparing a lovely \\emph{Canard {\\`a} l'Orange} (roast duck with orange sauce). We first take our duck out of a $v002[$i1]\$^{\\circ}\$F refrigerator and place it in a $v003[$i1]\$^{\\circ}$F oven to roast. After $v005[$i1] minutes the internal temperature is $v004[$i1]\$^{\\circ}\$F. If we want to roast the duck until just under well-done (about 170\$^{\\circ}\$F internally), when will it be ready?";
+};
+
+$aufgabe[2]=sub {
+    print termtest "Evaluate without a calculator. Show all of your work.\n\\begin{equation}\\log_{4}\\left(2\\cdot\\sqrt{32}\\right)+\\log_{27}\\sqrt{3}\\notag\n\end{equation}";
+};
+
+$aufgabe[3]=sub {
+    print termtest "Suppose that you plan to need \\$10,000 in thirty-six months' time when your child starts attending university. You want to invest in an instrument yielding 3.5\\% interest, compounded monthly. How much should you invest? Use the formula\n\\begin{equation}\nA=P\\left(1+\\frac{r}{m}\\right)^{mt}\\notag\n\\end{equation}";
+};
+
+$aufgabe[4]=sub {
+    print termtest "Solve the following equation,\\begin{equation}\n\\ln{}2x-\\ln{}4+\\ln(x-2)=1\\notag\n\\end{equation}";
+};
+
+$aufgabe[5]=sub {
+    print termtest "Solve the following equation,\\begin{equation}\n3^{x^{2}}=175^{x-1}\\notag\n\\end{equation}";
+};
+
+$aufgabe[6]=sub {
+    print termtest "Evaluate\\begin{equation}\n\\log_{4}\\left(2\\cdot\\sqrt{32}\\right)+\\log_{27}\\sqrt{3}\\notag\n\\end{equation}";
+};
+
+$aufgabe[7]=sub {
+    print termtest "Rewrite the expression as a single logarithm,\n\\begin{equation}$v006[$i1]\\notag\n\\end{equation}";
+};
+
+$aufgabe[8]=sub {
+    print termtest "Rewrite so that there is no logarithm of a product, quotient, root, or power,\n\\begin{equation}$v007[$i1]\\notag\n\\end{equation}";
 };
 
 for ($y2=0;$y2<=$#aufgabe;++$y2)
@@ -84,20 +117,20 @@ $nm[1]="termtest2";
 $vn[0]="1";
 $vn[1]="2";
 
-$v001[0]="";
-$v001[1]="";
-$v002[0]="";
-$v002[1]="";
-$v003[0]="";
-$v003[1]="";
-$v004[0]="";
-$v004[1]="";
-$v005[0]="";
-$v005[1]="";
-$v006[0]="";
-$v006[1]="";
-$v007[0]="";
-$v007[1]="";
+$v001[0]="37";
+$v001[1]="93";
+$v002[0]="36";
+$v002[1]="32";
+$v003[0]="350";
+$v003[1]="375";
+$v004[0]="53";
+$v004[1]="57";
+$v005[0]="10";
+$v005[1]="12";
+$v006[0]="2(\\log_{5}x+2\\log_{5}y-3\\log_{5}z)";
+$v006[1]="\\frac{1}{3}\\log(2x+1)+\\frac{1}{2}[\\log(x-4)-\\log(x^{4}-x^{2}-1)]";
+$v007[0]="\\ln\\frac{x^{3}\\sqrt{x-1}}{3x+4}";
+$v007[1]="\\ln\\frac{10^{x}}{x(x^{2}+1)(x^{4}+2)}";
 $v008[0]="";
 $v008[1]="";
 $v009[0]="";
