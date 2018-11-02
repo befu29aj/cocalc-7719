@@ -84,15 +84,19 @@ $aufgabe[4]=sub {
 };
 
 $aufgabe[5]=sub {
-    print termtest "Rewrite so that there is no logarithm of a product, quotient, root, or power,\n\\begin{equation}$v007[$i1]\\notag\n\\end{equation}";
+    print termtest "Solve the following equation,\\begin{equation}\n3^{x^{2}}=175^{x-1}\\notag\n\\end{equation}";
 };
 
+# $aufgabe[6]=sub {
+#     print termtest "Evaluate\\begin{equation}\n\\log_{4}\\left(2\\cdot\\sqrt{32}\\right)+\\log_{27}\\sqrt{3}\\notag\n\\end{equation}";
+# };
+
 $aufgabe[6]=sub {
-    print termtest "Evaluate\\begin{equation}\n\\log_{4}\\left(2\\cdot\\sqrt{32}\\right)+\\log_{27}\\sqrt{3}\\notag\n\\end{equation}";
+    print termtest "Rewrite the expression as a single logarithm,\n\\begin{equation}$v006[$i1]\\notag\n\\end{equation}";
 };
 
 $aufgabe[7]=sub {
-    print termtest "Rewrite the expression as a single logarithm,\n\\begin{equation}$v006[$i1]\\notag\n\\end{equation}";
+    print termtest "Rewrite so that there is no logarithm of a product, quotient, root, or power,\n\\begin{equation}$v007[$i1]\\notag\n\\end{equation}";
 };
 
 for ($y2=0;$y2<=$#aufgabe;++$y2)
