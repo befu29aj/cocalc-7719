@@ -64,7 +64,7 @@ srand($seed[1]);
 
 $aufgabe[0]=sub {
     print termtest "How long will it take the world population to double at an
-exponential growth rate of 1.$v001[$i1]\% per year?";
+exponential growth rate of 1.$v001[$i1]\\% per year?";
 };
 
 $aufgabe[1]=sub {
@@ -76,7 +76,7 @@ $aufgabe[2]=sub {
 };
 
 $aufgabe[3]=sub {
-    print termtest "Suppose that you plan to need \\$10,000 in thirty-six months' time when your child starts attending university. You want to invest in an instrument yielding 3.5\\% interest, compounded monthly. How much should you invest? Use the formula\n\\begin{equation}\nA=P\\left(1+\\frac{r}{m}\\right)^{mt}\\notag\n\\end{equation}";
+    print termtest "Suppose that you plan to need \\\$10,000 in thirty-six months' time when your child starts attending university. You want to invest in an instrument yielding 3.5\\% interest, compounded monthly. How much should you invest? Use the formula\n\\begin{equation}\nA=P\\left(1+\\frac{r}{m}\\right)^{mt}\\notag\n\\end{equation}";
 };
 
 $aufgabe[4]=sub {
@@ -84,7 +84,7 @@ $aufgabe[4]=sub {
 };
 
 $aufgabe[5]=sub {
-    print termtest "Solve the following equation,\\begin{equation}\n3^{x^{2}}=175^{x-1}\\notag\n\\end{equation}";
+    print termtest "Rewrite so that there is no logarithm of a product, quotient, root, or power,\n\\begin{equation}$v007[$i1]\\notag\n\\end{equation}";
 };
 
 $aufgabe[6]=sub {
@@ -93,10 +93,6 @@ $aufgabe[6]=sub {
 
 $aufgabe[7]=sub {
     print termtest "Rewrite the expression as a single logarithm,\n\\begin{equation}$v006[$i1]\\notag\n\\end{equation}";
-};
-
-$aufgabe[8]=sub {
-    print termtest "Rewrite so that there is no logarithm of a product, quotient, root, or power,\n\\begin{equation}$v007[$i1]\\notag\n\\end{equation}";
 };
 
 for ($y2=0;$y2<=$#aufgabe;++$y2)
@@ -166,6 +162,7 @@ $p[3]="5";
 $p[4]="5";
 $p[5]="5";
 $p[6]="5";
+$p[7]="5";
 
 for ($i1=0;$i1<=$#nm;++$i1)
 {
