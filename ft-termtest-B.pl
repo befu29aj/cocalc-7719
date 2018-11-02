@@ -76,7 +76,7 @@ $aufgabe[2]=sub {
 };
 
 $aufgabe[3]=sub {
-    print termtest "Suppose that you plan to need \\\$10,000 in thirty-six months' time when your child starts attending university. You want to invest in an instrument yielding 3.5\\% interest, compounded monthly. How much should you invest? Use the formula\n\\begin{equation}\nA=P\\left(1+\\frac{r}{m}\\right)^{mt}\\notag\n\\end{equation}";
+    print termtest "Suppose that you plan to need \\\$10,000 in thirty-six months' time when your child starts attending university. You want to invest in an instrument yielding 3.5\\% interest per year, compounded monthly. How much should you invest? Use the formula\n\\begin{equation}\nA=P\\left(1+\\frac{r}{m}\\right)^{mt}\\notag\n\\end{equation}";
 };
 
 $aufgabe[4]=sub {
