@@ -72,7 +72,7 @@ $aufgabe[1]=sub {
 };
 
 $aufgabe[2]=sub {
-    print termtest "Evaluate without a calculator. Show all of your work.\n\\begin{equation}\\log_{4}\\left(2\\cdot\\sqrt{32}\\right)+\\log_{27}\\sqrt{3}\\notag\n\\end{equation}";
+    print termtest "This is pretty hard. Evaluate without a calculator. Show all of your work.\n\\begin{equation}\\log_{4}\\left(2\\cdot\\sqrt{32}\\right)+\\log_{27}\\sqrt{3}\\notag\n\\end{equation}";
 };
 
 $aufgabe[3]=sub {
@@ -80,11 +80,11 @@ $aufgabe[3]=sub {
 };
 
 $aufgabe[4]=sub {
-    print termtest "Solve the following equation,\\begin{equation}\n\\ln{}2x-\\ln{}4+\\ln(x-2)=1\\notag\n\\end{equation}";
+    print termtest "This is pretty hard. Solve the following equation,\\begin{equation}\n\\ln{}2x-\\ln{}4+\\ln(x-2)=1\\notag\n\\end{equation}";
 };
 
 $aufgabe[5]=sub {
-    print termtest "Solve the following equation,\\begin{equation}\n3^{x^{2}}=175^{x-1}\\notag\n\\end{equation}";
+    print termtest "This is too messy. Solve the following equation,\\begin{equation}\n3^{x^{2}}=175^{x-1}\\notag\n\\end{equation}";
 };
 
 # $aufgabe[6]=sub {
