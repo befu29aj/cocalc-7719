@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.13)  13 NOV 2018 19:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.13)  13 NOV 2018 23:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -956,65 +956,44 @@ thkerncmss.
 ] [3
 
 ]
+<./diagrams/extrema1.png, id=54, 927.465pt x 886.31125pt>
+File: ./diagrams/extrema1.png Graphic file (type png)
+<use ./diagrams/extrema1.png>
+Package pdftex.def Info: ./diagrams/extrema1.png  used on input line 52.
+(pdftex.def)             Requested size: 278.24164pt x 265.89542pt.
 
-LaTeX Warning: File `./extrema1.png' not found on input line 52.
-
-
-! Package pdftex.def Error: File `./extrema1.png' not found: using draft settin
-g.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.52 \end{frame}
-                
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+Overfull \vbox (44.35301pt too high) detected at line 52
+ []
 
 [4
 
-]
+ <./diagrams/extrema1.png>]
+<./diagrams/extrema2.png, id=63, 927.465pt x 886.31125pt>
+File: ./diagrams/extrema2.png Graphic file (type png)
+<use ./diagrams/extrema2.png>
+Package pdftex.def Info: ./diagrams/extrema2.png  used on input line 59.
+(pdftex.def)             Requested size: 278.24164pt x 265.89542pt.
 
-LaTeX Warning: File `./extrema2.png' not found on input line 59.
-
-
-! Package pdftex.def Error: File `./extrema2.png' not found: using draft settin
-g.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.59 \end{frame}
-                
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+Overfull \vbox (44.35301pt too high) detected at line 59
+ []
 
 [5
 
-] [6
+ <./diagrams/extrema2.png>] [6
 
 ]
+<./diagrams/extrema3.png, id=80, 927.465pt x 886.31125pt>
+File: ./diagrams/extrema3.png Graphic file (type png)
+<use ./diagrams/extrema3.png>
+Package pdftex.def Info: ./diagrams/extrema3.png  used on input line 81.
+(pdftex.def)             Requested size: 278.24164pt x 265.89542pt.
 
-LaTeX Warning: File `./extrema3.png' not found on input line 81.
-
-
-! Package pdftex.def Error: File `./extrema3.png' not found: using draft settin
-g.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.81 \end{frame}
-                
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+Overfull \vbox (44.35301pt too high) detected at line 81
+ []
 
 [7
 
-] [8
+ <./diagrams/extrema3.png>] [8
 
 ] [9
 
@@ -1025,126 +1004,95 @@ If that doesn't work, type  X <return>  to quit.
 ] [12
 
 ]
+<./diagrams/asymp1.png, id=128, 816.04875pt x 692.5875pt>
+File: ./diagrams/asymp1.png Graphic file (type png)
+<use ./diagrams/asymp1.png>
+Package pdftex.def Info: ./diagrams/asymp1.png  used on input line 187.
+(pdftex.def)             Requested size: 204.01169pt x 173.14644pt.
 
-LaTeX Warning: File `./asymp1.png' not found on input line 187.
-
-
-! Package pdftex.def Error: File `./asymp1.png' not found: using draft setting.
-
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.187 \end{frame}
-                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+Overfull \vbox (1.34294pt too high) detected at line 187
+ []
 
 [13
 
-]
+ <./diagrams/asymp1.png>]
+<./diagrams/asymp2.png, id=137, 853.1875pt x 681.54625pt>
+File: ./diagrams/asymp2.png Graphic file (type png)
+<use ./diagrams/asymp2.png>
+Package pdftex.def Info: ./diagrams/asymp2.png  used on input line 199.
+(pdftex.def)             Requested size: 213.29636pt x 170.38614pt.
+ [14
 
-LaTeX Warning: File `./asymp2.png' not found on input line 199.
-
-
-! Package pdftex.def Error: File `./asymp2.png' not found: using draft setting.
-
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.199 \end{frame}
-                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[14
-
-] [15
+ <./diagrams/asymp2.png>] [15
 
 ]
+<./diagrams/asymp3.png, id=153, 863.225pt x 862.22125pt>
+File: ./diagrams/asymp3.png Graphic file (type png)
+<use ./diagrams/asymp3.png>
+Package pdftex.def Info: ./diagrams/asymp3.png  used on input line 228.
+(pdftex.def)             Requested size: 215.80573pt x 215.55478pt.
 
-LaTeX Warning: File `./asymp3.png' not found on input line 228.
-
-
-! Package pdftex.def Error: File `./asymp3.png' not found: using draft setting.
-
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.228 \end{frame}
-                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+Overfull \vbox (27.44987pt too high) detected at line 228
+ []
 
 [16
 
-]
+ <./diagrams/asymp3.png>]
+<./diagrams/asymp4.png, id=162, 857.2025pt x 694.595pt>
+File: ./diagrams/asymp4.png Graphic file (type png)
+<use ./diagrams/asymp4.png>
+Package pdftex.def Info: ./diagrams/asymp4.png  used on input line 241.
+(pdftex.def)             Requested size: 214.3001pt x 173.64832pt.
 
-LaTeX Warning: File `./asymp4.png' not found on input line 241.
-
-
-! Package pdftex.def Error: File `./asymp4.png' not found: using draft setting.
-
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.241 \end{frame}
-                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+Overfull \vbox (11.44846pt too high) detected at line 241
+ []
 
 [17
 
-] [18
+ <./diagrams/asymp4.png>] [18
 
 ]
+<./diagrams/asymp5.png, id=177, 858.20625pt x 866.23625pt>
+File: ./diagrams/asymp5.png Graphic file (type png)
+<use ./diagrams/asymp5.png>
+Package pdftex.def Info: ./diagrams/asymp5.png  used on input line 270.
+(pdftex.def)             Requested size: 214.55104pt x 216.55853pt.
 
-LaTeX Warning: File `./asymp5.png' not found on input line 270.
-
-
-! Package pdftex.def Error: File `./asymp5.png' not found: using draft setting.
-
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.270 \end{frame}
-                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+Overfull \vbox (46.80037pt too high) detected at line 270
+ []
 
 [19
 
-] [20
+ <./diagrams/asymp5.png>] [20
 
 ]
-
-LaTeX Warning: File `./ft-11-AnalyzingFunctions.eps' not found on input line 31
-0.
-
-Package epstopdf Info: Source file: <./ft-11-AnalyzingFunctions.eps>
-(epstopdf)             Output file: <./ft-11-AnalyzingFunctions-eps-converted-t
-o.pdf>
-(epstopdf)                    date: 2017-11-28 18:36:58
-(epstopdf)                    size: 114546 bytes
-(epstopdf)             Command: <repstopdf --outfile=./ft-11-AnalyzingFunctions
--eps-converted-to.pdf ./ft-11-AnalyzingFunctions.eps>
+Package epstopdf Info: Source file: <./diagrams/ft-11-AnalyzingFunctions.eps>
+(epstopdf)                    date: 2018-10-12 16:57:19
+(epstopdf)                    size: 3404807 bytes
+(epstopdf)             Output file: <./diagrams/ft-11-AnalyzingFunctions-eps-co
+nverted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./diagrams/ft-11-Analyzing
+Functions-eps-converted-to.pdf ./diagrams/ft-11-AnalyzingFunctions.eps>
 (epstopdf)             \includegraphics on input line 310.
-Package epstopdf Info: Output file is already uptodate.
-<./ft-11-AnalyzingFunctions-eps-converted-to.pdf, id=185, 1009.7725pt x 558.085
-pt>
-File: ./ft-11-AnalyzingFunctions-eps-converted-to.pdf Graphic file (type pdf)
-<use ./ft-11-AnalyzingFunctions-eps-converted-to.pdf>
-Package pdftex.def Info: ./ft-11-AnalyzingFunctions-eps-converted-to.pdf  used 
-on input line 310.
+runsystem(repstopdf --outfile=./diagrams/ft-11-AnalyzingFunctions-eps-converted
+-to.pdf ./diagrams/ft-11-AnalyzingFunctions.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <./diagrams/ft-11-AnalyzingFunctions-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2018-11-13 23:52:16
+(epstopdf)                    size: 114546 bytes.
+
+
+pdfTeX warning: pdflatex (file ./diagrams/ft-11-AnalyzingFunctions-eps-converte
+d-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> al
+lowed
+<./diagrams/ft-11-AnalyzingFunctions-eps-converted-to.pdf, id=196, 1009.7725pt 
+x 558.085pt>
+File: ./diagrams/ft-11-AnalyzingFunctions-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+<use ./diagrams/ft-11-AnalyzingFunctions-eps-converted-to.pdf>
+Package pdftex.def Info: ./diagrams/ft-11-AnalyzingFunctions-eps-converted-to.p
+df  used on input line 310.
 (pdftex.def)             Requested size: 403.90184pt x 223.23004pt.
 
 Overfull \hbox (96.61197pt too wide) in paragraph at lines 310--310
@@ -1157,7 +1105,7 @@ Overfull \vbox (15.28764pt too high) detected at line 310
 
 [21
 
- <./ft-11-AnalyzingFunctions-eps-converted-to.pdf>] [22
+ <./diagrams/ft-11-AnalyzingFunctions-eps-converted-to.pdf>] [22
 
 ]
 \tf@nav=\write6
@@ -1179,11 +1127,11 @@ Package rerunfilecheck Info: File `ft-12-Optimization.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 20354 strings out of 492982
- 400060 string characters out of 6134895
+ 20385 strings out of 492982
+ 400963 string characters out of 6134895
  470676 words of memory out of 5000000
- 23380 multiletter control sequences out of 15000+600000
- 10558 words of font info for 39 fonts, out of 8000000 for 9000
+ 23411 multiletter control sequences out of 15000+600000
+ 10390 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,15n,63p,809b,544s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
@@ -1194,12 +1142,11 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmtt10.pfb>
-Output written on ft-12-Optimization.pdf (22 pages, 235198 bytes).
+lic/amsfonts/cm/cmsy8.pfb>
+Output written on ft-12-Optimization.pdf (22 pages, 429737 bytes).
 PDF statistics:
- 248 PDF objects out of 1000 (max. 8388607)
- 196 compressed objects within 2 object streams
+ 256 PDF objects out of 1000 (max. 8388607)
+ 194 compressed objects within 2 object streams
  66 named destinations out of 1000 (max. 500000)
- 90 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 130 words of extra memory for PDF output out of 10000 (max. 10000000)
 
