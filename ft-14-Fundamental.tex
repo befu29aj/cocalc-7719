@@ -1,71 +1,14 @@
 % ft-14-Fundamental.tex
 
 \documentclass[xcolor=dvipsnames]{beamer}
-
-\usepackage{cancel}
-\renewcommand{\CancelColor}{\color{red}}
-\usepackage{graphicx}
-\usepackage{wrapfig}
-\usepackage{colortbl}
-\usepackage{color}
-\usepackage{alltt}
-\renewcommand*{\thefootnote}{\fnsymbol{footnote}}
-\definecolor{myblue}{rgb}{0.8,0.85,1}
-
-\mode<presentation>
-{
-  \usetheme{Warsaw}
-  \setbeamercovered{transparent}
-}
-% \usecolortheme[named=OliveGreen]{structure}
-\setbeamertemplate{navigation symbols}{} 
-\setbeamertemplate{blocks}[rounded][shadow=true] 
-
-% this is for overlaying math symbols, see https://tex.stackexchange.com/questions/12895/overlay-symbol-with-another
-\def\qeq{\mathrel{%
-    \mathchoice{\QEQ}{\QEQ}{\scriptsize\QEQ}{\tiny\QEQ}%
-}}
-\def\QEQ{{%
-    \setbox0\hbox{$\longrightarrow$}%
-    \rlap{\hbox to \wd0{\hss/\hss}}\box0
-  }}
-
-\newcounter{expls}
-\setcounter{expls}{0}
-\newcommand{\beispiel}[1]{\refstepcounter{expls}\textbf{Example \arabic{expls}: #1.}}
-
-\newcounter{exercise}
-\setcounter{exercise}{0}
-\newcommand{\ubung}[0]{\refstepcounter{exercise}\textbf{Exercise \arabic{exercise}: }}
-
-\newif\ifBCITCourse
-\BCITCoursetrue
-% \BCITCoursefalse
-\newif\ifWhichCourse
-\WhichCoursetrue
-% \WhichCoursefalse
-\ifBCITCourse
-\ifWhichCourse
-\newcommand{\CourseName}{Technical Mathematics for Food Technology}
-\newcommand{\CourseNumber}{MATH 1441}
-\newcommand{\CourseInst}{BCIT}
-\else
-\newcommand{\CourseName}{Technical Mathematics for Geomatics}
-\newcommand{\CourseNumber}{MATH 1511}
-\newcommand{\CourseInst}{BCIT}
-\fi
-\else
-\newcommand{\CourseName}{Philosophy and Literature}
-\newcommand{\CourseNumber}{PHIL 375}
-\newcommand{\CourseInst}{UBC}
-\fi
+\usepackage{teachbeamer}
 
 \title{Fundamental Theorem of Calculus}
 \subtitle{{\CourseNumber}, BCIT}
 
 \author{\CourseName}
 
-\date{November 28, 2017}
+\date{November 26, 2018}
 
 \begin{document}
 
@@ -78,7 +21,7 @@
 Remember these two problems that we wanted to solve when we started
 with calculus:
   \begin{figure}[h]
-    \includegraphics[scale=.35]{./regiontangent.png}
+    \includegraphics[scale=.35]{./diagrams/regiontangent.png}
   \end{figure}
 We have solved the problem on the left. Now it is time to solve the
 problem on the right. For areas under a curve, we need
@@ -358,7 +301,7 @@ Evaluate each definite integral.
   you the area under the curve $y=f(x)$ between $a$ and $b$. This area
   can be approximated by a series of rectangles.
 \begin{figure}[h]
-\includegraphics[scale=.3]{./ftoc-02.png}
+\includegraphics[scale=.3]{./diagrams/ftoc-02.png}
 \end{figure}
 \end{frame}
 
@@ -375,7 +318,7 @@ and $F(s)$ equals the slope of the tangent line at $F(q)$, so
   F'(q)=\frac{F(s)-F(r)}{s-r}\mbox{ (MVT)}\notag
 \end{equation}
 \begin{figure}[h]
-\includegraphics[scale=.13]{./ftoc-01.png}
+\includegraphics[scale=.13]{./diagrams/ftoc-01.png}
 \end{figure}
 \end{frame}
 
@@ -457,7 +400,7 @@ Consider the following problem.
 Find the area under the curve $y=x^{2}-4$ between $x=1$ and $x=3$.
 \end{block}
 \begin{figure}[h]
-\includegraphics[scale=.6]{./negarea.png}
+\includegraphics[scale=.6]{./diagrams/negarea.png}
 \end{figure}
 \end{frame}
 
@@ -601,7 +544,7 @@ Here is method 2.
   {\ubung} Find the area between the curve $y=2(x-5)^{2}-2$ and the
   $x$-axis between $x=3$ and $x=7$.
 \begin{figure}[h]
-\includegraphics[scale=.2]{./NegativeArea.png}
+\includegraphics[scale=.2]{./diagrams/NegativeArea.png}
 \end{figure}
 \end{frame}
 
@@ -609,7 +552,7 @@ Here is method 2.
   \frametitle{Area Between Curves}
   {\ubung} Find the area bounded by the curves $f(x)$ and $g(x)$.
 \begin{figure}[h]
-\includegraphics[scale=.15]{./areabetwcurs.png}
+\includegraphics[scale=.15]{./diagrams/areabetwcurs.png}
 \end{figure}
 To find this area, solve for the two solutions $x_{1},x_{2}$ of 
 \begin{equation}
@@ -628,7 +571,7 @@ To find this area, solve for the two solutions $x_{1},x_{2}$ of
 {\ubung} Find the area of the region enclosed by the parabola
 $y=2-x^{2}$ and the line $y=-x$. 
 \begin{figure}[h]
-  \includegraphics[scale=0.2]{./areabc.png}
+  \includegraphics[scale=0.2]{./diagrams/areabc.png}
 \end{figure}
 \end{frame}
 
