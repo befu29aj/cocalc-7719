@@ -1,1 +1,0 @@
-{"key":"build_command","value":["latexmk","-pdf","-f","-g","-bibtex","-synctex=1","-interaction=nonstopmode","ft-01-sets.tex"],"time":1536596063981}
